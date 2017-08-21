@@ -1,0 +1,2 @@
+INFO  [2017-04-25 10:01:38,893] RECV 
+mqInfo:{channel=CHL.AMQS1, qm=AMQS1, port=1414, url=192.168.246.99} state:CONNECTED

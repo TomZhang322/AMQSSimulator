@@ -1,0 +1,1357 @@
+INFO  [2017-04-13 10:11:14,433] RECV 
+mqInfo:{channel=CHL.AMQS1, qm=AMQS1, port=1414, url=192.168.246.99} state:CONNECTED
+INFO  [2017-04-13 10:11:37,756] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU XMNMFMF
+.BJSXCXA 180954
+DFD
+FI MF8105/AN B-2763
+DT BJS PEK 180954 D01A
+-  <405>EEG 198
+ B-2763CXA8118   PO  161805160624340000000012248XIA52ACMF0038
+PO 107 115    77  28.9
+TA  98 101    85  26.9
+TR 103 106   126  29.2
+CL  88  91 31890  -2.7
+ER  78  79 27598  -7.3
+DC  84  87  1987  26.6
+AP 109 110   100  31.7
+RO 114 114   113  30.4
+TI 109 113   123  30.4
+PO NGS566  47 22 369 55 55 56164164163
+TA EMP566  43 20 357 53 53 54158157157
+TR EMP566  44 18 368 48 47 48164163163
+CL NGS564  42 59 994131133131161158159
+ER NGS563  36 671107129131130168165166
+DC EMP563  40 61 957140142141159157157
+AP EMP564  50 36 484 87 88 87 83 82 83
+RO EMP569  46  0   0  2  2  2  0  0  0
+TI NGS567  48 21 366 55 54 56163163162
+PO573  48 14   0  0  2  0  0  0  0
+TA565  44 19 368 51 50 52163163162
+TR569  44  0   0  0  2  0  0  0  0
+CL562  36 621077124125124168165165
+ER562  39 761132149151149165162163
+DC562  51 69 917160162161154152153
+AP570  45  0   0  2  2  2  0  0  0
+RO570  46  0   0  2  2  2  0  0  0
+TI566  46 11 291155153158114113113
+AAEH003543
+PO NGS567  51 22 369 55 55 56164163163
+TA EMP565  43 20 357 53 53 54157156157
+TR EMP567  45 17 368 46 46 47163162163
+CL NGS561  44 701048150151149161159160
+ER NGS562  38 761147150151149166164166
+DC EMP562  39 50 767110111110119118119
+AP EMP563  50 431332117117118148147148
+RO EMP564  52 321227 95 95 96128127127
+TI NGS564  50 21 382 55 55 56164164164
+PO577  50 11   0  0  1  2  0  0  0
+TA567  45 18 368 50 49 50163162163
+TR569  44  0   0  0  0  2  0  0  0
+CL561  37 761134150151149164161163
+ER561  41 851167171173170165163164
+DC565  46 441331119120121150148149
+AP558  51 391300110110111142141142
+RO565  52 351257101101102131131131
+TI565  48 11 291 39 39 39120119119
+AAEH003625
+
+
+ERROR [2017-04-13 10:11:38,930] com.adcc.utility.mq.transfer.active.ActiveMQTransfer 
+stopAsync() error
+java.lang.NullPointerException
+	at com.google.common.base.Preconditions.checkNotNull(Preconditions.java:210)
+	at com.google.common.base.Optional.of(Optional.java:85)
+	at com.adcc.utility.mq.transfer.active.ActiveMQTransfer.retrunConnection(ActiveMQTransfer.java:153)
+	at com.adcc.utility.mq.transfer.active.ActiveMQTransfer.stopAsync(ActiveMQTransfer.java:587)
+	at com.adcc.tool.amqssimulator.view.AMQSMainShell.cancelAutoSend(AMQSMainShell.java:898)
+	at com.adcc.tool.amqssimulator.view.AMQSMainShell.access$200(AMQSMainShell.java:36)
+	at com.adcc.tool.amqssimulator.view.AMQSMainShell$3.widgetSelected(AMQSMainShell.java:173)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(Unknown Source)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(Unknown Source)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Unknown Source)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Unknown Source)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Unknown Source)
+	at com.adcc.tool.amqssimulator.App.main(App.java:26)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:134)
+ERROR [2017-04-13 10:11:56,231] com.adcc.utility.mq.transfer.active.ActiveMQTransfer 
+stopAsync() error
+java.lang.NullPointerException
+	at com.google.common.base.Preconditions.checkNotNull(Preconditions.java:210)
+	at com.google.common.base.Optional.of(Optional.java:85)
+	at com.adcc.utility.mq.transfer.active.ActiveMQTransfer.retrunConnection(ActiveMQTransfer.java:153)
+	at com.adcc.utility.mq.transfer.active.ActiveMQTransfer.stopAsync(ActiveMQTransfer.java:587)
+	at com.adcc.tool.amqssimulator.view.AMQSMainShell.cancelAutoSend(AMQSMainShell.java:898)
+	at com.adcc.tool.amqssimulator.view.AMQSMainShell.access$200(AMQSMainShell.java:36)
+	at com.adcc.tool.amqssimulator.view.AMQSMainShell$3.widgetSelected(AMQSMainShell.java:173)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(Unknown Source)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(Unknown Source)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Unknown Source)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Unknown Source)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Unknown Source)
+	at com.adcc.tool.amqssimulator.App.main(App.java:26)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:134)
+ERROR [2017-04-13 10:12:04,552] com.adcc.utility.mq.transfer.ibm.IBMMQTransfer$MonitorRunnable 
+run () error
+java.lang.InterruptedException: sleep interrupted
+	at java.lang.Thread.sleep(Native Method)
+	at com.adcc.utility.mq.transfer.ibm.IBMMQTransfer$MonitorRunnable.run(IBMMQTransfer.java:686)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+INFO  [2017-04-13 10:12:04,557] RECV 
+mqInfo:{channel=CHL.AMQS1, qm=AMQS1, port=1414, url=192.168.246.99} state:DISCONNECTED
+ERROR [2017-04-13 10:12:04,558] com.adcc.utility.mq.transfer.active.ActiveMQTransfer 
+stopAsync() error
+java.lang.NullPointerException
+	at com.google.common.base.Preconditions.checkNotNull(Preconditions.java:210)
+	at com.google.common.base.Optional.of(Optional.java:85)
+	at com.adcc.utility.mq.transfer.active.ActiveMQTransfer.retrunConnection(ActiveMQTransfer.java:153)
+	at com.adcc.utility.mq.transfer.active.ActiveMQTransfer.stopAsync(ActiveMQTransfer.java:587)
+	at com.adcc.tool.amqssimulator.view.AMQSMainShell.btnDisconnect(AMQSMainShell.java:682)
+	at com.adcc.tool.amqssimulator.view.AMQSMainShell.access$700(AMQSMainShell.java:36)
+	at com.adcc.tool.amqssimulator.view.AMQSMainShell$8.widgetSelected(AMQSMainShell.java:304)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(Unknown Source)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(Unknown Source)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Unknown Source)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Unknown Source)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Unknown Source)
+	at com.adcc.tool.amqssimulator.App.main(App.java:26)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:134)
+INFO  [2017-04-13 10:12:05,842] RECV 
+mqInfo:{channel=CHL.AMQS1, qm=AMQS1, port=1414, url=192.168.246.99} state:CONNECTED
+ERROR [2017-04-13 10:12:05,842] com.adcc.utility.mq.transfer.ibm.AsyncQueueReceiver 
+queue:Q.GWTOAMQS is not open
+ERROR [2017-04-13 10:12:15,193] com.adcc.utility.mq.transfer.ibm.IBMMQTransfer$MonitorRunnable 
+run () error
+java.lang.InterruptedException: sleep interrupted
+	at java.lang.Thread.sleep(Native Method)
+	at com.adcc.utility.mq.transfer.ibm.IBMMQTransfer$MonitorRunnable.run(IBMMQTransfer.java:686)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+INFO  [2017-04-13 10:12:15,198] RECV 
+mqInfo:{channel=CHL.AMQS1, qm=AMQS1, port=1414, url=192.168.246.99} state:DISCONNECTED
+ERROR [2017-04-13 10:12:15,198] com.adcc.utility.mq.transfer.active.ActiveMQTransfer 
+stopAsync() error
+java.lang.NullPointerException
+	at com.google.common.base.Preconditions.checkNotNull(Preconditions.java:210)
+	at com.google.common.base.Optional.of(Optional.java:85)
+	at com.adcc.utility.mq.transfer.active.ActiveMQTransfer.retrunConnection(ActiveMQTransfer.java:153)
+	at com.adcc.utility.mq.transfer.active.ActiveMQTransfer.stopAsync(ActiveMQTransfer.java:587)
+	at com.adcc.tool.amqssimulator.view.AMQSMainShell.btnDisconnect(AMQSMainShell.java:682)
+	at com.adcc.tool.amqssimulator.view.AMQSMainShell.close(AMQSMainShell.java:424)
+	at com.adcc.tool.amqssimulator.view.AMQSMainShell.access$000(AMQSMainShell.java:36)
+	at com.adcc.tool.amqssimulator.view.AMQSMainShell$1.shellClosed(AMQSMainShell.java:140)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(Unknown Source)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(Unknown Source)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Unknown Source)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Unknown Source)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Unknown Source)
+	at org.eclipse.swt.widgets.Decorations.closeWidget(Unknown Source)
+	at org.eclipse.swt.widgets.Decorations.WM_CLOSE(Unknown Source)
+	at org.eclipse.swt.widgets.Control.windowProc(Unknown Source)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Unknown Source)
+	at org.eclipse.swt.widgets.Decorations.windowProc(Unknown Source)
+	at org.eclipse.swt.widgets.Shell.windowProc(Unknown Source)
+	at org.eclipse.swt.widgets.Display.windowProc(Unknown Source)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProcW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProc(Unknown Source)
+	at org.eclipse.swt.widgets.Shell.callWindowProc(Unknown Source)
+	at org.eclipse.swt.widgets.Control.windowProc(Unknown Source)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Unknown Source)
+	at org.eclipse.swt.widgets.Decorations.windowProc(Unknown Source)
+	at org.eclipse.swt.widgets.Shell.windowProc(Unknown Source)
+	at org.eclipse.swt.widgets.Display.windowProc(Unknown Source)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProcW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProc(Unknown Source)
+	at org.eclipse.swt.widgets.Shell.callWindowProc(Unknown Source)
+	at org.eclipse.swt.widgets.Control.windowProc(Unknown Source)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Unknown Source)
+	at org.eclipse.swt.widgets.Decorations.windowProc(Unknown Source)
+	at org.eclipse.swt.widgets.Shell.windowProc(Unknown Source)
+	at org.eclipse.swt.widgets.Display.windowProc(Unknown Source)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessageW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessage(Unknown Source)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Unknown Source)
+	at com.adcc.tool.amqssimulator.App.main(App.java:26)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:134)
+INFO  [2017-04-13 10:22:22,194] RECV 
+mqInfo:{channel=CHL.AMQS1, qm=AMQS1, port=1414, url=192.168.246.99} state:CONNECTED
+ERROR [2017-04-13 10:22:29,005] com.adcc.utility.mq.transfer.active.ActiveMQTransfer 
+stopAsync() error
+java.lang.NullPointerException
+	at com.google.common.base.Preconditions.checkNotNull(Preconditions.java:210)
+	at com.google.common.base.Optional.of(Optional.java:85)
+	at com.adcc.utility.mq.transfer.active.ActiveMQTransfer.retrunConnection(ActiveMQTransfer.java:153)
+	at com.adcc.utility.mq.transfer.active.ActiveMQTransfer.stopAsync(ActiveMQTransfer.java:587)
+	at com.adcc.tool.amqssimulator.view.AutoSendDialog.btnDisconnect(AutoSendDialog.java:423)
+	at com.adcc.tool.amqssimulator.view.AutoSendDialog.close(AutoSendDialog.java:294)
+	at com.adcc.tool.amqssimulator.view.AutoSendDialog.access$000(AutoSendDialog.java:45)
+	at com.adcc.tool.amqssimulator.view.AutoSendDialog$1.shellClosed(AutoSendDialog.java:124)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(Unknown Source)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(Unknown Source)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Unknown Source)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Unknown Source)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Unknown Source)
+	at org.eclipse.swt.widgets.Decorations.closeWidget(Unknown Source)
+	at org.eclipse.swt.widgets.Decorations.WM_CLOSE(Unknown Source)
+	at org.eclipse.swt.widgets.Control.windowProc(Unknown Source)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Unknown Source)
+	at org.eclipse.swt.widgets.Decorations.windowProc(Unknown Source)
+	at org.eclipse.swt.widgets.Shell.windowProc(Unknown Source)
+	at org.eclipse.swt.widgets.Display.windowProc(Unknown Source)
+	at org.eclipse.swt.internal.win32.OS.CallWindowProcW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.CallWindowProc(Unknown Source)
+	at org.eclipse.swt.widgets.Shell.callWindowProc(Unknown Source)
+	at org.eclipse.swt.widgets.Control.windowProc(Unknown Source)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Unknown Source)
+	at org.eclipse.swt.widgets.Decorations.windowProc(Unknown Source)
+	at org.eclipse.swt.widgets.Shell.windowProc(Unknown Source)
+	at org.eclipse.swt.widgets.Display.windowProc(Unknown Source)
+	at org.eclipse.swt.internal.win32.OS.CallWindowProcW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.CallWindowProc(Unknown Source)
+	at org.eclipse.swt.widgets.Shell.callWindowProc(Unknown Source)
+	at org.eclipse.swt.widgets.Control.windowProc(Unknown Source)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Unknown Source)
+	at org.eclipse.swt.widgets.Decorations.windowProc(Unknown Source)
+	at org.eclipse.swt.widgets.Shell.windowProc(Unknown Source)
+	at org.eclipse.swt.widgets.Display.windowProc(Unknown Source)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessageW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessage(Unknown Source)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Unknown Source)
+	at com.adcc.tool.amqssimulator.view.AutoSendDialog.open(AutoSendDialog.java:105)
+	at com.adcc.tool.amqssimulator.view.AMQSMainShell$9.widgetSelected(AMQSMainShell.java:329)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(Unknown Source)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(Unknown Source)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Unknown Source)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Unknown Source)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Unknown Source)
+	at com.adcc.tool.amqssimulator.App.main(App.java:26)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:134)
+INFO  [2017-04-13 10:22:33,573] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU CTUUO3U
+.BJSXCXA 140225
+M21
+FI 3U8888/AN B-2300
+DT BJS PVG 140225 M61A
+-  OUT
+DEP ZSPD,OUT 0225,FOB 31300
+TAXI OUT 0315
+
+INFO  [2017-04-13 10:22:33,645] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU CTUUO3U
+.BJSXCXA 140225
+M21
+FI 3U8888/AN B-2300
+DT BJS PVG 140225 M61A
+-  OUT
+DEP ZSPD,OUT 0225,FOB 31300
+TAXI OUT 0315
+INFO  [2017-04-13 10:22:33,713] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU CTUUO3U
+.BJSXCXA 140225
+M21
+FI 3U8888/AN B-2300
+DT BJS PVG 140225 M61A
+-  OUT
+DEP ZSPD,OUT 0225,FOB 31300
+TAXI OUT 0315
+INFO  [2017-04-13 10:22:33,783] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU CTUUO3U
+.BJSXCXA 140225
+M21
+FI 3U8888/AN B-2300
+DT BJS PVG 140225 M61A
+-  OUT
+DEP ZSPD,OUT 0225,FOB 31300
+TAXI OUT 0315
+ERROR [2017-04-13 10:22:41,891] com.adcc.utility.mq.transfer.active.ActiveMQTransfer 
+stopAsync() error
+java.lang.NullPointerException
+	at com.google.common.base.Preconditions.checkNotNull(Preconditions.java:210)
+	at com.google.common.base.Optional.of(Optional.java:85)
+	at com.adcc.utility.mq.transfer.active.ActiveMQTransfer.retrunConnection(ActiveMQTransfer.java:153)
+	at com.adcc.utility.mq.transfer.active.ActiveMQTransfer.stopAsync(ActiveMQTransfer.java:587)
+	at com.adcc.tool.amqssimulator.view.AMQSMainShell.cancelAutoSend(AMQSMainShell.java:898)
+	at com.adcc.tool.amqssimulator.view.AMQSMainShell.access$200(AMQSMainShell.java:36)
+	at com.adcc.tool.amqssimulator.view.AMQSMainShell$3.widgetSelected(AMQSMainShell.java:173)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(Unknown Source)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(Unknown Source)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Unknown Source)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Unknown Source)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Unknown Source)
+	at com.adcc.tool.amqssimulator.App.main(App.java:26)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:134)
+INFO  [2017-04-13 10:22:48,890] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU CTUUO3U
+.BJSXCXA 140225
+M21
+FI 3U8888/AN B-2300
+DT BJS PVG 140225 M61A
+-  OUT
+DEP ZSPD,OUT 0225,FOB 31300
+TAXI OUT 0315
+
+INFO  [2017-04-13 10:22:48,959] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU CTUUO3U
+.BJSXCXA 140225
+M21
+FI 3U8888/AN B-2300
+DT BJS PVG 140225 M61A
+-  OUT
+DEP ZSPD,OUT 0225,FOB 31300
+TAXI OUT 0315
+INFO  [2017-04-13 10:22:49,029] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU CTUUO3U
+.BJSXCXA 140225
+M21
+FI 3U8888/AN B-2300
+DT BJS PVG 140225 M61A
+-  OUT
+DEP ZSPD,OUT 0225,FOB 31300
+TAXI OUT 0315
+INFO  [2017-04-13 10:22:49,100] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU CTUUO3U
+.BJSXCXA 140225
+M21
+FI 3U8888/AN B-2300
+DT BJS PVG 140225 M61A
+-  OUT
+DEP ZSPD,OUT 0225,FOB 31300
+TAXI OUT 0315
+INFO  [2017-04-13 10:22:49,171] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU CTUUO3U
+.BJSXCXA 140225
+M21
+FI 3U8888/AN B-2300
+DT BJS PVG 140225 M61A
+-  OUT
+DEP ZSPD,OUT 0225,FOB 31300
+TAXI OUT 0315
+
+INFO  [2017-04-13 10:22:49,240] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU CTUUO3U
+.BJSXCXA 140225
+M21
+FI 3U8888/AN B-2300
+DT BJS PVG 140225 M61A
+-  OUT
+DEP ZSPD,OUT 0225,FOB 31300
+TAXI OUT 0315
+INFO  [2017-04-13 10:22:49,308] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU CTUUO3U
+.BJSXCXA 140225
+M21
+FI 3U8888/AN B-2300
+DT BJS PVG 140225 M61A
+-  OUT
+DEP ZSPD,OUT 0225,FOB 31300
+TAXI OUT 0315
+INFO  [2017-04-13 10:22:49,376] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU CTUUO3U
+.BJSXCXA 140225
+M21
+FI 3U8888/AN B-2300
+DT BJS PVG 140225 M61A
+-  OUT
+DEP ZSPD,OUT 0225,FOB 31300
+TAXI OUT 0315
+INFO  [2017-04-13 10:22:49,442] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU CTUUO3U
+.BJSXCXA 140225
+M21
+FI 3U8888/AN B-2300
+DT BJS PVG 140225 M61A
+-  OUT
+DEP ZSPD,OUT 0225,FOB 31300
+TAXI OUT 0315
+
+INFO  [2017-04-13 10:22:49,508] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU CTUUO3U
+.BJSXCXA 140225
+M21
+FI 3U8888/AN B-2300
+DT BJS PVG 140225 M61A
+-  OUT
+DEP ZSPD,OUT 0225,FOB 31300
+TAXI OUT 0315
+INFO  [2017-04-13 10:22:49,576] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU CTUUO3U
+.BJSXCXA 140225
+M21
+FI 3U8888/AN B-2300
+DT BJS PVG 140225 M61A
+-  OUT
+DEP ZSPD,OUT 0225,FOB 31300
+TAXI OUT 0315
+INFO  [2017-04-13 10:22:49,643] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU CTUUO3U
+.BJSXCXA 140225
+M21
+FI 3U8888/AN B-2300
+DT BJS PVG 140225 M61A
+-  OUT
+DEP ZSPD,OUT 0225,FOB 31300
+TAXI OUT 0315
+INFO  [2017-04-13 10:22:49,712] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU CTUUO3U
+.BJSXCXA 140225
+M21
+FI 3U8888/AN B-2300
+DT BJS PVG 140225 M61A
+-  OUT
+DEP ZSPD,OUT 0225,FOB 31300
+TAXI OUT 0315
+
+INFO  [2017-04-13 10:22:49,781] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU CTUUO3U
+.BJSXCXA 140225
+M21
+FI 3U8888/AN B-2300
+DT BJS PVG 140225 M61A
+-  OUT
+DEP ZSPD,OUT 0225,FOB 31300
+TAXI OUT 0315
+INFO  [2017-04-13 10:22:49,849] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU CTUUO3U
+.BJSXCXA 140225
+M21
+FI 3U8888/AN B-2300
+DT BJS PVG 140225 M61A
+-  OUT
+DEP ZSPD,OUT 0225,FOB 31300
+TAXI OUT 0315
+INFO  [2017-04-13 10:22:49,917] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU CTUUO3U
+.BJSXCXA 140225
+M21
+FI 3U8888/AN B-2300
+DT BJS PVG 140225 M61A
+-  OUT
+DEP ZSPD,OUT 0225,FOB 31300
+TAXI OUT 0315
+INFO  [2017-04-13 10:22:49,982] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU CTUUO3U
+.BJSXCXA 140225
+M21
+FI 3U8888/AN B-2300
+DT BJS PVG 140225 M61A
+-  OUT
+DEP ZSPD,OUT 0225,FOB 31300
+TAXI OUT 0315
+
+INFO  [2017-04-13 10:22:50,048] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU CTUUO3U
+.BJSXCXA 140225
+M21
+FI 3U8888/AN B-2300
+DT BJS PVG 140225 M61A
+-  OUT
+DEP ZSPD,OUT 0225,FOB 31300
+TAXI OUT 0315
+INFO  [2017-04-13 10:22:50,117] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU CTUUO3U
+.BJSXCXA 140225
+M21
+FI 3U8888/AN B-2300
+DT BJS PVG 140225 M61A
+-  OUT
+DEP ZSPD,OUT 0225,FOB 31300
+TAXI OUT 0315
+INFO  [2017-04-13 10:22:50,186] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU CTUUO3U
+.BJSXCXA 140225
+M21
+FI 3U8888/AN B-2300
+DT BJS PVG 140225 M61A
+-  OUT
+DEP ZSPD,OUT 0225,FOB 31300
+TAXI OUT 0315
+INFO  [2017-04-13 10:22:50,255] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU CTUUO3U
+.BJSXCXA 140225
+M21
+FI 3U8888/AN B-2300
+DT BJS PVG 140225 M61A
+-  OUT
+DEP ZSPD,OUT 0225,FOB 31300
+TAXI OUT 0315
+
+INFO  [2017-04-13 10:22:50,321] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU CTUUO3U
+.BJSXCXA 140225
+M21
+FI 3U8888/AN B-2300
+DT BJS PVG 140225 M61A
+-  OUT
+DEP ZSPD,OUT 0225,FOB 31300
+TAXI OUT 0315
+INFO  [2017-04-13 10:22:50,389] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU CTUUO3U
+.BJSXCXA 140225
+M21
+FI 3U8888/AN B-2300
+DT BJS PVG 140225 M61A
+-  OUT
+DEP ZSPD,OUT 0225,FOB 31300
+TAXI OUT 0315
+INFO  [2017-04-13 10:22:50,456] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU CTUUO3U
+.BJSXCXA 140225
+M21
+FI 3U8888/AN B-2300
+DT BJS PVG 140225 M61A
+-  OUT
+DEP ZSPD,OUT 0225,FOB 31300
+TAXI OUT 0315
+INFO  [2017-04-13 10:22:50,522] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU CTUUO3U
+.BJSXCXA 140225
+M21
+FI 3U8888/AN B-2300
+DT BJS PVG 140225 M61A
+-  OUT
+DEP ZSPD,OUT 0225,FOB 31300
+TAXI OUT 0315
+
+INFO  [2017-04-13 10:22:50,587] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU CTUUO3U
+.BJSXCXA 140225
+M21
+FI 3U8888/AN B-2300
+DT BJS PVG 140225 M61A
+-  OUT
+DEP ZSPD,OUT 0225,FOB 31300
+TAXI OUT 0315
+INFO  [2017-04-13 10:22:50,655] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU CTUUO3U
+.BJSXCXA 140225
+M21
+FI 3U8888/AN B-2300
+DT BJS PVG 140225 M61A
+-  OUT
+DEP ZSPD,OUT 0225,FOB 31300
+TAXI OUT 0315
+INFO  [2017-04-13 10:22:50,723] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU CTUUO3U
+.BJSXCXA 140225
+M21
+FI 3U8888/AN B-2300
+DT BJS PVG 140225 M61A
+-  OUT
+DEP ZSPD,OUT 0225,FOB 31300
+TAXI OUT 0315
+INFO  [2017-04-13 10:22:50,791] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU CTUUO3U
+.BJSXCXA 140225
+M21
+FI 3U8888/AN B-2300
+DT BJS PVG 140225 M61A
+-  OUT
+DEP ZSPD,OUT 0225,FOB 31300
+TAXI OUT 0315
+
+INFO  [2017-04-13 10:22:50,860] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU CTUUO3U
+.BJSXCXA 140225
+M21
+FI 3U8888/AN B-2300
+DT BJS PVG 140225 M61A
+-  OUT
+DEP ZSPD,OUT 0225,FOB 31300
+TAXI OUT 0315
+INFO  [2017-04-13 10:22:50,929] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU CTUUO3U
+.BJSXCXA 140225
+M21
+FI 3U8888/AN B-2300
+DT BJS PVG 140225 M61A
+-  OUT
+DEP ZSPD,OUT 0225,FOB 31300
+TAXI OUT 0315
+INFO  [2017-04-13 10:22:50,996] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU CTUUO3U
+.BJSXCXA 140225
+M21
+FI 3U8888/AN B-2300
+DT BJS PVG 140225 M61A
+-  OUT
+DEP ZSPD,OUT 0225,FOB 31300
+TAXI OUT 0315
+INFO  [2017-04-13 10:22:51,061] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU CTUUO3U
+.BJSXCXA 140225
+M21
+FI 3U8888/AN B-2300
+DT BJS PVG 140225 M61A
+-  OUT
+DEP ZSPD,OUT 0225,FOB 31300
+TAXI OUT 0315
+
+INFO  [2017-04-13 10:22:51,127] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU CTUUO3U
+.BJSXCXA 140225
+M21
+FI 3U8888/AN B-2300
+DT BJS PVG 140225 M61A
+-  OUT
+DEP ZSPD,OUT 0225,FOB 31300
+TAXI OUT 0315
+INFO  [2017-04-13 10:22:51,194] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU CTUUO3U
+.BJSXCXA 140225
+M21
+FI 3U8888/AN B-2300
+DT BJS PVG 140225 M61A
+-  OUT
+DEP ZSPD,OUT 0225,FOB 31300
+TAXI OUT 0315
+INFO  [2017-04-13 10:22:51,264] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU CTUUO3U
+.BJSXCXA 140225
+M21
+FI 3U8888/AN B-2300
+DT BJS PVG 140225 M61A
+-  OUT
+DEP ZSPD,OUT 0225,FOB 31300
+TAXI OUT 0315
+INFO  [2017-04-13 10:22:51,334] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU CTUUO3U
+.BJSXCXA 140225
+M21
+FI 3U8888/AN B-2300
+DT BJS PVG 140225 M61A
+-  OUT
+DEP ZSPD,OUT 0225,FOB 31300
+TAXI OUT 0315
+
+INFO  [2017-04-13 10:22:51,402] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU CTUUO3U
+.BJSXCXA 140225
+M21
+FI 3U8888/AN B-2300
+DT BJS PVG 140225 M61A
+-  OUT
+DEP ZSPD,OUT 0225,FOB 31300
+TAXI OUT 0315
+INFO  [2017-04-13 10:22:51,471] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU CTUUO3U
+.BJSXCXA 140225
+M21
+FI 3U8888/AN B-2300
+DT BJS PVG 140225 M61A
+-  OUT
+DEP ZSPD,OUT 0225,FOB 31300
+TAXI OUT 0315
+INFO  [2017-04-13 10:22:51,538] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU CTUUO3U
+.BJSXCXA 140225
+M21
+FI 3U8888/AN B-2300
+DT BJS PVG 140225 M61A
+-  OUT
+DEP ZSPD,OUT 0225,FOB 31300
+TAXI OUT 0315
+INFO  [2017-04-13 10:22:51,603] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU CTUUO3U
+.BJSXCXA 140225
+M21
+FI 3U8888/AN B-2300
+DT BJS PVG 140225 M61A
+-  OUT
+DEP ZSPD,OUT 0225,FOB 31300
+TAXI OUT 0315
+
+INFO  [2017-04-13 10:22:51,670] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU CTUUO3U
+.BJSXCXA 140225
+M21
+FI 3U8888/AN B-2300
+DT BJS PVG 140225 M61A
+-  OUT
+DEP ZSPD,OUT 0225,FOB 31300
+TAXI OUT 0315
+INFO  [2017-04-13 10:22:51,739] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU CTUUO3U
+.BJSXCXA 140225
+M21
+FI 3U8888/AN B-2300
+DT BJS PVG 140225 M61A
+-  OUT
+DEP ZSPD,OUT 0225,FOB 31300
+TAXI OUT 0315
+INFO  [2017-04-13 10:22:51,807] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU CTUUO3U
+.BJSXCXA 140225
+M21
+FI 3U8888/AN B-2300
+DT BJS PVG 140225 M61A
+-  OUT
+DEP ZSPD,OUT 0225,FOB 31300
+TAXI OUT 0315
+INFO  [2017-04-13 10:22:51,877] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU CTUUO3U
+.BJSXCXA 140225
+M21
+FI 3U8888/AN B-2300
+DT BJS PVG 140225 M61A
+-  OUT
+DEP ZSPD,OUT 0225,FOB 31300
+TAXI OUT 0315
+
+INFO  [2017-04-13 10:22:51,946] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU CTUUO3U
+.BJSXCXA 140225
+M21
+FI 3U8888/AN B-2300
+DT BJS PVG 140225 M61A
+-  OUT
+DEP ZSPD,OUT 0225,FOB 31300
+TAXI OUT 0315
+INFO  [2017-04-13 10:22:52,013] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU CTUUO3U
+.BJSXCXA 140225
+M21
+FI 3U8888/AN B-2300
+DT BJS PVG 140225 M61A
+-  OUT
+DEP ZSPD,OUT 0225,FOB 31300
+TAXI OUT 0315
+INFO  [2017-04-13 10:22:52,078] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU CTUUO3U
+.BJSXCXA 140225
+M21
+FI 3U8888/AN B-2300
+DT BJS PVG 140225 M61A
+-  OUT
+DEP ZSPD,OUT 0225,FOB 31300
+TAXI OUT 0315
+INFO  [2017-04-13 10:22:52,143] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU CTUUO3U
+.BJSXCXA 140225
+M21
+FI 3U8888/AN B-2300
+DT BJS PVG 140225 M61A
+-  OUT
+DEP ZSPD,OUT 0225,FOB 31300
+TAXI OUT 0315
+
+INFO  [2017-04-13 10:22:52,209] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU CTUUO3U
+.BJSXCXA 140225
+M21
+FI 3U8888/AN B-2300
+DT BJS PVG 140225 M61A
+-  OUT
+DEP ZSPD,OUT 0225,FOB 31300
+TAXI OUT 0315
+INFO  [2017-04-13 10:22:52,276] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU CTUUO3U
+.BJSXCXA 140225
+M21
+FI 3U8888/AN B-2300
+DT BJS PVG 140225 M61A
+-  OUT
+DEP ZSPD,OUT 0225,FOB 31300
+TAXI OUT 0315
+INFO  [2017-04-13 10:22:52,344] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU CTUUO3U
+.BJSXCXA 140225
+M21
+FI 3U8888/AN B-2300
+DT BJS PVG 140225 M61A
+-  OUT
+DEP ZSPD,OUT 0225,FOB 31300
+TAXI OUT 0315
+INFO  [2017-04-13 10:22:52,410] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU CTUUO3U
+.BJSXCXA 140225
+M21
+FI 3U8888/AN B-2300
+DT BJS PVG 140225 M61A
+-  OUT
+DEP ZSPD,OUT 0225,FOB 31300
+TAXI OUT 0315
+
+INFO  [2017-04-13 10:22:52,557] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU CTUUO3U
+.BJSXCXA 140225
+M21
+FI 3U8888/AN B-2300
+DT BJS PVG 140225 M61A
+-  OUT
+DEP ZSPD,OUT 0225,FOB 31300
+TAXI OUT 0315
+INFO  [2017-04-13 10:22:52,624] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU CTUUO3U
+.BJSXCXA 140225
+M21
+FI 3U8888/AN B-2300
+DT BJS PVG 140225 M61A
+-  OUT
+DEP ZSPD,OUT 0225,FOB 31300
+TAXI OUT 0315
+INFO  [2017-04-13 10:22:52,689] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU CTUUO3U
+.BJSXCXA 140225
+M21
+FI 3U8888/AN B-2300
+DT BJS PVG 140225 M61A
+-  OUT
+DEP ZSPD,OUT 0225,FOB 31300
+TAXI OUT 0315
+INFO  [2017-04-13 10:22:52,757] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU CTUUO3U
+.BJSXCXA 140225
+M21
+FI 3U8888/AN B-2300
+DT BJS PVG 140225 M61A
+-  OUT
+DEP ZSPD,OUT 0225,FOB 31300
+TAXI OUT 0315
+
+INFO  [2017-04-13 10:22:52,826] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU CTUUO3U
+.BJSXCXA 140225
+M21
+FI 3U8888/AN B-2300
+DT BJS PVG 140225 M61A
+-  OUT
+DEP ZSPD,OUT 0225,FOB 31300
+TAXI OUT 0315
+INFO  [2017-04-13 10:22:52,893] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU CTUUO3U
+.BJSXCXA 140225
+M21
+FI 3U8888/AN B-2300
+DT BJS PVG 140225 M61A
+-  OUT
+DEP ZSPD,OUT 0225,FOB 31300
+TAXI OUT 0315
+INFO  [2017-04-13 10:22:52,959] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU CTUUO3U
+.BJSXCXA 140225
+M21
+FI 3U8888/AN B-2300
+DT BJS PVG 140225 M61A
+-  OUT
+DEP ZSPD,OUT 0225,FOB 31300
+TAXI OUT 0315
+INFO  [2017-04-13 10:22:53,028] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU CTUUO3U
+.BJSXCXA 140225
+M21
+FI 3U8888/AN B-2300
+DT BJS PVG 140225 M61A
+-  OUT
+DEP ZSPD,OUT 0225,FOB 31300
+TAXI OUT 0315
+
+INFO  [2017-04-13 10:22:53,097] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU CTUUO3U
+.BJSXCXA 140225
+M21
+FI 3U8888/AN B-2300
+DT BJS PVG 140225 M61A
+-  OUT
+DEP ZSPD,OUT 0225,FOB 31300
+TAXI OUT 0315
+INFO  [2017-04-13 10:22:53,165] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU CTUUO3U
+.BJSXCXA 140225
+M21
+FI 3U8888/AN B-2300
+DT BJS PVG 140225 M61A
+-  OUT
+DEP ZSPD,OUT 0225,FOB 31300
+TAXI OUT 0315
+INFO  [2017-04-13 10:22:53,229] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU CTUUO3U
+.BJSXCXA 140225
+M21
+FI 3U8888/AN B-2300
+DT BJS PVG 140225 M61A
+-  OUT
+DEP ZSPD,OUT 0225,FOB 31300
+TAXI OUT 0315
+INFO  [2017-04-13 10:22:53,293] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU CTUUO3U
+.BJSXCXA 140225
+M21
+FI 3U8888/AN B-2300
+DT BJS PVG 140225 M61A
+-  OUT
+DEP ZSPD,OUT 0225,FOB 31300
+TAXI OUT 0315
+
+INFO  [2017-04-13 10:22:53,358] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU CTUUO3U
+.BJSXCXA 140225
+M21
+FI 3U8888/AN B-2300
+DT BJS PVG 140225 M61A
+-  OUT
+DEP ZSPD,OUT 0225,FOB 31300
+TAXI OUT 0315
+INFO  [2017-04-13 10:22:53,425] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU CTUUO3U
+.BJSXCXA 140225
+M21
+FI 3U8888/AN B-2300
+DT BJS PVG 140225 M61A
+-  OUT
+DEP ZSPD,OUT 0225,FOB 31300
+TAXI OUT 0315
+INFO  [2017-04-13 10:22:53,493] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU CTUUO3U
+.BJSXCXA 140225
+M21
+FI 3U8888/AN B-2300
+DT BJS PVG 140225 M61A
+-  OUT
+DEP ZSPD,OUT 0225,FOB 31300
+TAXI OUT 0315
+INFO  [2017-04-13 10:22:53,560] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU CTUUO3U
+.BJSXCXA 140225
+M21
+FI 3U8888/AN B-2300
+DT BJS PVG 140225 M61A
+-  OUT
+DEP ZSPD,OUT 0225,FOB 31300
+TAXI OUT 0315
+
+INFO  [2017-04-13 10:22:53,628] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU CTUUO3U
+.BJSXCXA 140225
+M21
+FI 3U8888/AN B-2300
+DT BJS PVG 140225 M61A
+-  OUT
+DEP ZSPD,OUT 0225,FOB 31300
+TAXI OUT 0315
+INFO  [2017-04-13 10:22:53,697] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU CTUUO3U
+.BJSXCXA 140225
+M21
+FI 3U8888/AN B-2300
+DT BJS PVG 140225 M61A
+-  OUT
+DEP ZSPD,OUT 0225,FOB 31300
+TAXI OUT 0315
+INFO  [2017-04-13 10:22:53,764] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU CTUUO3U
+.BJSXCXA 140225
+M21
+FI 3U8888/AN B-2300
+DT BJS PVG 140225 M61A
+-  OUT
+DEP ZSPD,OUT 0225,FOB 31300
+TAXI OUT 0315
+INFO  [2017-04-13 10:22:53,830] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU CTUUO3U
+.BJSXCXA 140225
+M21
+FI 3U8888/AN B-2300
+DT BJS PVG 140225 M61A
+-  OUT
+DEP ZSPD,OUT 0225,FOB 31300
+TAXI OUT 0315
+
+INFO  [2017-04-13 10:22:53,900] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU CTUUO3U
+.BJSXCXA 140225
+M21
+FI 3U8888/AN B-2300
+DT BJS PVG 140225 M61A
+-  OUT
+DEP ZSPD,OUT 0225,FOB 31300
+TAXI OUT 0315
+INFO  [2017-04-13 10:22:53,969] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU CTUUO3U
+.BJSXCXA 140225
+M21
+FI 3U8888/AN B-2300
+DT BJS PVG 140225 M61A
+-  OUT
+DEP ZSPD,OUT 0225,FOB 31300
+TAXI OUT 0315
+INFO  [2017-04-13 10:22:54,036] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU CTUUO3U
+.BJSXCXA 140225
+M21
+FI 3U8888/AN B-2300
+DT BJS PVG 140225 M61A
+-  OUT
+DEP ZSPD,OUT 0225,FOB 31300
+TAXI OUT 0315
+ERROR [2017-04-13 10:22:54,075] com.adcc.utility.mq.transfer.active.ActiveMQTransfer 
+stopAsync() error
+java.lang.NullPointerException
+	at com.google.common.base.Preconditions.checkNotNull(Preconditions.java:210)
+	at com.google.common.base.Optional.of(Optional.java:85)
+	at com.adcc.utility.mq.transfer.active.ActiveMQTransfer.retrunConnection(ActiveMQTransfer.java:153)
+	at com.adcc.utility.mq.transfer.active.ActiveMQTransfer.stopAsync(ActiveMQTransfer.java:587)
+	at com.adcc.tool.amqssimulator.view.AMQSMainShell.cancelAutoSend(AMQSMainShell.java:898)
+	at com.adcc.tool.amqssimulator.view.AMQSMainShell.access$200(AMQSMainShell.java:36)
+	at com.adcc.tool.amqssimulator.view.AMQSMainShell$3.widgetSelected(AMQSMainShell.java:173)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(Unknown Source)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(Unknown Source)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Unknown Source)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Unknown Source)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Unknown Source)
+	at com.adcc.tool.amqssimulator.App.main(App.java:26)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:134)
+ERROR [2017-04-13 10:22:56,348] com.adcc.utility.mq.transfer.ibm.IBMMQTransfer$MonitorRunnable 
+run () error
+java.lang.InterruptedException: sleep interrupted
+	at java.lang.Thread.sleep(Native Method)
+	at com.adcc.utility.mq.transfer.ibm.IBMMQTransfer$MonitorRunnable.run(IBMMQTransfer.java:686)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+INFO  [2017-04-13 10:22:56,351] RECV 
+mqInfo:{channel=CHL.AMQS1, qm=AMQS1, port=1414, url=192.168.246.99} state:DISCONNECTED
+ERROR [2017-04-13 10:22:56,352] com.adcc.utility.mq.transfer.active.ActiveMQTransfer 
+stopAsync() error
+java.lang.NullPointerException
+	at com.google.common.base.Preconditions.checkNotNull(Preconditions.java:210)
+	at com.google.common.base.Optional.of(Optional.java:85)
+	at com.adcc.utility.mq.transfer.active.ActiveMQTransfer.retrunConnection(ActiveMQTransfer.java:153)
+	at com.adcc.utility.mq.transfer.active.ActiveMQTransfer.stopAsync(ActiveMQTransfer.java:587)
+	at com.adcc.tool.amqssimulator.view.AMQSMainShell.btnDisconnect(AMQSMainShell.java:682)
+	at com.adcc.tool.amqssimulator.view.AMQSMainShell.access$700(AMQSMainShell.java:36)
+	at com.adcc.tool.amqssimulator.view.AMQSMainShell$8.widgetSelected(AMQSMainShell.java:304)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(Unknown Source)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(Unknown Source)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Unknown Source)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Unknown Source)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Unknown Source)
+	at com.adcc.tool.amqssimulator.App.main(App.java:26)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:134)
+INFO  [2017-04-13 10:22:59,366] RECV 
+mqInfo:{channel=CHL.AMQS1, qm=AMQS1, port=1414, url=192.168.246.99} state:DISCONNECTED
+ERROR [2017-04-13 10:22:59,366] com.adcc.utility.mq.transfer.active.ActiveMQTransfer 
+stopAsync() error
+java.lang.NullPointerException
+	at com.google.common.base.Preconditions.checkNotNull(Preconditions.java:210)
+	at com.google.common.base.Optional.of(Optional.java:85)
+	at com.adcc.utility.mq.transfer.active.ActiveMQTransfer.retrunConnection(ActiveMQTransfer.java:153)
+	at com.adcc.utility.mq.transfer.active.ActiveMQTransfer.stopAsync(ActiveMQTransfer.java:587)
+	at com.adcc.tool.amqssimulator.view.AMQSMainShell.btnDisconnect(AMQSMainShell.java:682)
+	at com.adcc.tool.amqssimulator.view.AMQSMainShell.close(AMQSMainShell.java:424)
+	at com.adcc.tool.amqssimulator.view.AMQSMainShell.access$000(AMQSMainShell.java:36)
+	at com.adcc.tool.amqssimulator.view.AMQSMainShell$1.shellClosed(AMQSMainShell.java:140)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(Unknown Source)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(Unknown Source)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Unknown Source)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Unknown Source)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Unknown Source)
+	at org.eclipse.swt.widgets.Decorations.closeWidget(Unknown Source)
+	at org.eclipse.swt.widgets.Decorations.WM_CLOSE(Unknown Source)
+	at org.eclipse.swt.widgets.Control.windowProc(Unknown Source)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Unknown Source)
+	at org.eclipse.swt.widgets.Decorations.windowProc(Unknown Source)
+	at org.eclipse.swt.widgets.Shell.windowProc(Unknown Source)
+	at org.eclipse.swt.widgets.Display.windowProc(Unknown Source)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProcW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProc(Unknown Source)
+	at org.eclipse.swt.widgets.Shell.callWindowProc(Unknown Source)
+	at org.eclipse.swt.widgets.Control.windowProc(Unknown Source)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Unknown Source)
+	at org.eclipse.swt.widgets.Decorations.windowProc(Unknown Source)
+	at org.eclipse.swt.widgets.Shell.windowProc(Unknown Source)
+	at org.eclipse.swt.widgets.Display.windowProc(Unknown Source)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProcW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProc(Unknown Source)
+	at org.eclipse.swt.widgets.Shell.callWindowProc(Unknown Source)
+	at org.eclipse.swt.widgets.Control.windowProc(Unknown Source)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Unknown Source)
+	at org.eclipse.swt.widgets.Decorations.windowProc(Unknown Source)
+	at org.eclipse.swt.widgets.Shell.windowProc(Unknown Source)
+	at org.eclipse.swt.widgets.Display.windowProc(Unknown Source)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessageW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessage(Unknown Source)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Unknown Source)
+	at com.adcc.tool.amqssimulator.App.main(App.java:26)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:134)

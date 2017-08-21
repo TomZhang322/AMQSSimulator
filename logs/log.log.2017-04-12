@@ -1,0 +1,1435 @@
+INFO  [2017-04-12 08:47:36,317] RECV 
+mqInfo:{channel=CHL.AMQS1, qm=AMQS1, port=1414, url=192.168.246.99} state:CONNECTED
+INFO  [2017-04-12 08:47:43,845] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:45,703] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:46,385] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:46,430] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:46,481] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:46,532] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:46,582] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:46,633] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:46,681] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:46,730] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:46,780] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:46,830] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:46,881] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:46,933] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:46,982] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:47,033] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:47,080] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:47,133] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:47,180] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:47,231] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:47,283] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:47,332] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:47,381] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:47,432] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:47,482] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:47,531] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:47,580] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:47,631] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:47,681] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:47,732] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:47,781] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:47,832] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:47,880] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:47,929] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:47,979] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:48,032] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:48,082] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:48,132] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:48,182] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:48,231] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:48,280] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:48,332] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:48,382] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:48,432] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:48,482] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:48,531] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:48,581] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:48,633] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:48,681] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:48,732] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:48,783] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:48,833] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:48,881] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:48,932] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:48,981] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:49,031] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:49,079] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:49,130] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:49,180] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:49,233] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:49,281] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:49,330] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:49,380] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:49,429] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:49,480] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:49,537] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:49,581] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:49,630] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:49,680] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:49,731] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:49,782] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:49,831] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:49,882] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:49,932] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:49,982] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:50,032] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:50,086] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:50,130] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:50,180] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:50,230] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:50,281] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:50,330] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:50,382] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:50,432] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:50,482] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:50,533] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:50,582] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:50,632] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:50,681] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:50,733] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:50,782] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:50,832] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:50,882] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:50,933] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:50,982] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:51,033] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:51,083] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:51,132] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:51,181] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:51,230] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:51,280] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:51,331] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:51,382] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:51,433] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:51,482] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:51,532] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:51,582] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:51,632] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:51,682] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:51,733] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:51,782] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:51,833] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:51,881] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:51,930] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:51,981] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:52,033] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:52,082] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:52,131] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:52,182] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:52,232] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:52,281] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:52,333] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:52,380] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:52,431] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:52,482] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:52,532] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:52,582] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:52,632] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:52,682] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:52,732] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:52,782] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:52,833] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:52,882] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:52,932] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:52,984] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:53,032] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:53,082] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:53,133] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:53,182] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:53,233] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:53,283] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:53,332] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:53,382] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:53,432] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:53,480] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:53,530] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:53,580] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:53,632] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:53,682] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:53,733] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:53,783] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:53,832] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:53,882] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:53,933] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:53,983] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:54,033] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:54,081] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:54,133] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:54,184] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:54,233] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:54,283] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:54,332] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:54,382] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:54,432] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:54,483] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:54,532] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:47:54,581] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+bbdbdbd
+INFO  [2017-04-12 08:48:41,137] RECV 
+mqInfo:{broker=localhost, url=tcp://localhost:61616} state:CONNECTED
+INFO  [2017-04-12 08:48:41,151] RECV 
+receive msg from ActiveMQ NAME:bgsup1 MESSAGE:
+head{}
+content:
+Enter some text here for the message body...11111
+ERROR [2017-04-12 08:48:41,152] com.adcc.tool.amqssimulator.view.AMQSMainShell 
+parse expired time IBM falied
+org.eclipse.swt.SWTException: Invalid thread access
+	at org.eclipse.swt.SWT.error(Unknown Source)
+	at org.eclipse.swt.SWT.error(Unknown Source)
+	at org.eclipse.swt.SWT.error(Unknown Source)
+	at org.eclipse.swt.widgets.Widget.error(Unknown Source)
+	at org.eclipse.swt.widgets.Widget.checkWidget(Unknown Source)
+	at org.eclipse.swt.widgets.Text.getText(Unknown Source)
+	at com.adcc.tool.amqssimulator.view.AMQSMainShell.processActiveMQQueueMsg(AMQSMainShell.java:1004)
+	at com.adcc.tool.amqssimulator.view.AMQSMainShell.access$1400(AMQSMainShell.java:47)
+	at com.adcc.tool.amqssimulator.view.AMQSMainShell$20.onQueueMsg(AMQSMainShell.java:781)
+	at com.adcc.utility.mq.transfer.active.ActiveMQTransfer.onMessage(ActiveMQTransfer.java:633)
+	at com.adcc.utility.mq.transfer.active.AsyncQueueReceiver.onMessage(AsyncQueueReceiver.java:177)
+	at org.apache.activemq.ActiveMQMessageConsumer.dispatch(ActiveMQMessageConsumer.java:1393)
+	at org.apache.activemq.ActiveMQSessionExecutor.dispatch(ActiveMQSessionExecutor.java:131)
+	at org.apache.activemq.ActiveMQSessionExecutor.iterate(ActiveMQSessionExecutor.java:202)
+	at org.apache.activemq.thread.PooledTaskRunner.runTask(PooledTaskRunner.java:133)
+	at org.apache.activemq.thread.PooledTaskRunner$1.run(PooledTaskRunner.java:48)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+INFO  [2017-04-12 08:48:41,180] SEND 
+send message to queue:bgsup1 MESSAGE:
+head:{}
+content:
+Enter some text here for the message body...11111
+INFO  [2017-04-12 08:48:49,262] RECV 
+receive msg from ActiveMQ NAME:bgsup1 MESSAGE:
+head{}
+content:
+Enter some text here for the message body...22222
+ERROR [2017-04-12 08:48:49,262] com.adcc.tool.amqssimulator.view.AMQSMainShell 
+parse expired time IBM falied
+org.eclipse.swt.SWTException: Invalid thread access
+	at org.eclipse.swt.SWT.error(Unknown Source)
+	at org.eclipse.swt.SWT.error(Unknown Source)
+	at org.eclipse.swt.SWT.error(Unknown Source)
+	at org.eclipse.swt.widgets.Widget.error(Unknown Source)
+	at org.eclipse.swt.widgets.Widget.checkWidget(Unknown Source)
+	at org.eclipse.swt.widgets.Text.getText(Unknown Source)
+	at com.adcc.tool.amqssimulator.view.AMQSMainShell.processActiveMQQueueMsg(AMQSMainShell.java:1004)
+	at com.adcc.tool.amqssimulator.view.AMQSMainShell.access$1400(AMQSMainShell.java:47)
+	at com.adcc.tool.amqssimulator.view.AMQSMainShell$20.onQueueMsg(AMQSMainShell.java:781)
+	at com.adcc.utility.mq.transfer.active.ActiveMQTransfer.onMessage(ActiveMQTransfer.java:633)
+	at com.adcc.utility.mq.transfer.active.AsyncQueueReceiver.onMessage(AsyncQueueReceiver.java:177)
+	at org.apache.activemq.ActiveMQMessageConsumer.dispatch(ActiveMQMessageConsumer.java:1393)
+	at org.apache.activemq.ActiveMQSessionExecutor.dispatch(ActiveMQSessionExecutor.java:131)
+	at org.apache.activemq.ActiveMQSessionExecutor.iterate(ActiveMQSessionExecutor.java:202)
+	at org.apache.activemq.thread.PooledTaskRunner.runTask(PooledTaskRunner.java:133)
+	at org.apache.activemq.thread.PooledTaskRunner$1.run(PooledTaskRunner.java:48)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+INFO  [2017-04-12 08:48:49,281] SEND 
+send message to queue:bgsup1 MESSAGE:
+head:{}
+content:
+Enter some text here for the message body...22222
+INFO  [2017-04-12 08:48:57,089] RECV 
+receive msg from ActiveMQ NAME:bgsup1 MESSAGE:
+head{}
+content:
+Enter some text here for the message body...33333
+ERROR [2017-04-12 08:48:57,089] com.adcc.tool.amqssimulator.view.AMQSMainShell 
+parse expired time IBM falied
+org.eclipse.swt.SWTException: Invalid thread access
+	at org.eclipse.swt.SWT.error(Unknown Source)
+	at org.eclipse.swt.SWT.error(Unknown Source)
+	at org.eclipse.swt.SWT.error(Unknown Source)
+	at org.eclipse.swt.widgets.Widget.error(Unknown Source)
+	at org.eclipse.swt.widgets.Widget.checkWidget(Unknown Source)
+	at org.eclipse.swt.widgets.Text.getText(Unknown Source)
+	at com.adcc.tool.amqssimulator.view.AMQSMainShell.processActiveMQQueueMsg(AMQSMainShell.java:1004)
+	at com.adcc.tool.amqssimulator.view.AMQSMainShell.access$1400(AMQSMainShell.java:47)
+	at com.adcc.tool.amqssimulator.view.AMQSMainShell$20.onQueueMsg(AMQSMainShell.java:781)
+	at com.adcc.utility.mq.transfer.active.ActiveMQTransfer.onMessage(ActiveMQTransfer.java:633)
+	at com.adcc.utility.mq.transfer.active.AsyncQueueReceiver.onMessage(AsyncQueueReceiver.java:177)
+	at org.apache.activemq.ActiveMQMessageConsumer.dispatch(ActiveMQMessageConsumer.java:1393)
+	at org.apache.activemq.ActiveMQSessionExecutor.dispatch(ActiveMQSessionExecutor.java:131)
+	at org.apache.activemq.ActiveMQSessionExecutor.iterate(ActiveMQSessionExecutor.java:202)
+	at org.apache.activemq.thread.PooledTaskRunner.runTask(PooledTaskRunner.java:133)
+	at org.apache.activemq.thread.PooledTaskRunner$1.run(PooledTaskRunner.java:48)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+INFO  [2017-04-12 08:48:57,120] SEND 
+send message to queue:bgsup1 MESSAGE:
+head:{}
+content:
+Enter some text here for the message body...33333
+INFO  [2017-04-12 08:49:01,511] RECV 
+mqInfo:{broker=localhost, url=tcp://localhost:61616} state:DISCONNECTED
+INFO  [2017-04-12 08:49:08,853] RECV 
+mqInfo:{broker=localhost, url=tcp://localhost:61616} state:DISCONNECTED
+ERROR [2017-04-12 08:49:10,530] com.adcc.utility.mq.transfer.ibm.IBMMQTransfer$MonitorRunnable 
+run () error
+java.lang.InterruptedException: sleep interrupted
+	at java.lang.Thread.sleep(Native Method)
+	at com.adcc.utility.mq.transfer.ibm.IBMMQTransfer$MonitorRunnable.run(IBMMQTransfer.java:686)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+INFO  [2017-04-12 08:49:10,535] RECV 
+mqInfo:{channel=CHL.AMQS1, qm=AMQS1, port=1414, url=192.168.246.99} state:DISCONNECTED
+INFO  [2017-04-12 08:49:10,536] RECV 
+mqInfo:{broker=localhost, url=tcp://localhost:61616} state:DISCONNECTED
+INFO  [2017-04-12 08:49:12,919] RECV 
+mqInfo:{channel=CHL.AMQS1, qm=AMQS1, port=1414, url=192.168.246.99} state:DISCONNECTED
+INFO  [2017-04-12 08:49:12,919] RECV 
+mqInfo:{broker=localhost, url=tcp://localhost:61616} state:DISCONNECTED
+INFO  [2017-04-12 13:28:15,847] RECV 
+mqInfo:{channel=CHL.AMQS1, qm=AMQS1, port=1414, url=192.168.246.99} state:CONNECTED
+INFO  [2017-04-12 13:28:32,779] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU BJSAGCA
+.BJSXCXA 010200
+DFD
+FI CA4310/AN B-6362
+DT BJS LZH 010200 D20A
+-  A321,011811,1,1,TB000000/REP021,00,00,1/ACP001CFC1
+CCB-6362,APR01,015831,ZGGG,ZUUU,4310/
+C0TCF05DCFC10005/
+C106,000,1000,58,X010,0,010X,59,X/
+CE0000,23581,310,720,7616,281,C61FC1/
+EC697542,00645,00297,73,30,000,220/
+EE699127,00645,00297,73,30,155/
+E10835,0945,58,178,013,000,029,0/
+N10835,0944,59,178,011,000,032,0/
+S11675,4505,019,013,195,45,23581,2/
+T11690,4540,021,021,193,38,23599,2/
+V10000,-255,03392,01696,240,238,239,0/
+X12501,00000,072,013,045,043,007,1/
+W1OFF,ONX,ONX,AUTO/
+M1162.7,063.0,FOX,FOX/
+M2165.2,063.0/
+Z1NFO,NFO,FOX,FOX,FOX,FOX/
+R1NFC,NFC,FCX,FCX,NFC,NFC/
+D1017.3,017.3/
+F1025.0,024.8,025.0,ONX/
+G1017.3,027.6,022.5,017.1,017.0/
+H1NOX,NOX,NOX,NOX/
+
+
+
+INFO  [2017-04-12 13:28:32,849] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU CANXMCZ
+.BJSXCXA 010159
+M11
+FI CZ6657/AN B-6908
+DT BJS HRB 010159 M18A
+-  OUT01CSN6657/--010159ZYHEZYHE
+0159 161
+LON E126.271,LAT N 45.620
+483,819,
+
+
+INFO  [2017-04-12 13:28:32,913] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU CANXMCZ
+.BJSXCXA 010159
+MAS
+AN B-5966/FI CZ3405/MA 667S
+DT BJS CAN 010159 S25A
+
+
+INFO  [2017-04-12 13:28:32,980] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU TYOXINH
+.BJSXCXA 010159
+FML
+FI NH926/AN JA615A
+DT BJS SHE 010159 F01A
+-  REQPWI/WQ390.340.300:KY.EKVOK.NUBKI.LEMOT.LJB.BUTID.OMBAD.KANVU.WQG.BISUN.SANAR.BAPRU.IDBUR.ARLAS.LAKTA.LURED.IGROD.CLALA.REALU.SEILO.KAMOH.RINOA.LANAI.SHELY.LOTUS.SWAMP.COMET.SUIGO.DOVER.AKTUS.MELON/DQB311
+
+
+INFO  [2017-04-12 13:28:33,049] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU SHAITMU PEKUOKN
+.BJSXCXA 010200
+M17
+FI KN5667/AN B-1572
+DT BJS PEK 010200 M86A
+-  ETA
+DEP ZBNY,DES ZLYL,ETA 0244,FOB 14600
+
+
+INFO  [2017-04-12 13:28:33,116] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU SKYSWSQ ANPOC5J MNLGB5J XYTSO7X
+.BJSXCXA 010200
+DEP
+FI 5J241/AN RPC3261/DA VHHH/DS RPVM/OF 0159
+DT BJS HKG 010200 M47A
+-  5J0241,01APR17,0159
+
+
+INFO  [2017-04-12 13:28:33,182] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU HAKDPHU
+.BJSXCXA 010200
+M32
+FI HU7643/AN 1502
+DT BJS XIY 010200 M33A
+-  OFF
+ZLXY0159ZSCN17760
+
+
+INFO  [2017-04-12 13:28:33,247] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU BJSAGCA BLVBOCR
+.BJSXCXA 010200
+M10
+FI CA1590/AN B-2031
+DT BJS TNA 010200 M11A
+-  POS010159, N 3474,E11790,---,274,31491,  44,34106, 217,-229,-508,7
+
+
+INFO  [2017-04-12 13:28:33,312] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU CANXMCZ
+.BJSXCXA 010200
+FML
+FI CZ343/AN B-5939
+DT BJS ZUH 010200 F06A
+-  RESPWI/AC,3018259
+
+
+INFO  [2017-04-12 13:28:33,380] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU SZXUOZH
+.BJSXCXA 010200
+A80
+FI ZH9749/AN B-5613
+DT BJS PEK 010200 M18A
+-  3N01 POSRPT ZYHB/ZBYN
+/POS N42105E117510/ALT 291/MCH 742/FOB 0075/CAS 04566/TAS 06874/FF1 01361/FF2 01384
+
+
+INFO  [2017-04-12 13:28:33,448] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU HKGASCX HKGYRCX
+.BJSXCXA 010200
+M32
+FI CX650/AN B-LRM
+DT BJS MFM 010200 M66A
+-  APR,V05,CX 650 20170401 1,+020.328,+114.350,303,   76,-10
+
+
+INFO  [2017-04-12 13:28:33,517] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU CTUUO3U
+.BJSXCXA 010200
+M14
+FI 3U8686/AN B-1663
+DT BJS HRB 010200 M05A
+-  PRESENT POSITION REPORT 
+DMY 01APR17,UTC 015959,LAT N 42.549,LON E124.878,CAS 283,WD   739,WS
+   42,ALT 32101,FOB 12700,ETA 0437
+
+
+INFO  [2017-04-12 13:28:33,587] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU BJSAGCA
+.BJSXCXA 010200
+M10
+FI CA1971/AN B-6791
+DT BJS HRB 010200 M28A
+-  POS010159,N 45.700,E126.325,0200,  146750,,,1039,16240
+
+
+INFO  [2017-04-12 13:28:33,654] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU CANXMCZ
+.BJSXCXA 010200
+MAS
+AN B-2169/FI CZ6241/MA 781S
+DT BJS CGO 010200 S57A
+
+
+INFO  [2017-04-12 13:28:33,720] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU SHAITMU ABZDS8X XYTSO7X
+.BJSXCXA 010200
+DFD
+FI MU2855/AN B-6543
+DT BJS CTU 010200 D01A
+-  R04/A33004,1,1
+C1,.B-6543,17APR01,01.48.14,ZUUU,ZSNJ,CES2855   ,4000,596
+C2,016,05.0,000000,D1033RR04C0MU33,000,012,012
+C3,017.7,02599,0.225,111,1.25,111,10,0,01,111,1.25,X
+C4,017.9,02518,0.224,111
+C5,041987,04248,10373,00597,00104,00016,00000,00802,16066
+C6,041988,04248,19803,00597,00104,00015,00000,00802,16066
+C7,01,00,00,00,00,00,01,00
+C8,01,00,00,00,00,00,01,00
+N1,1.456,1.456,1.456,1.639,082.35,092.5,094.0,0734,20.433
+N2,1.456,1.456,1.456,1.639,082.18,092.5,093.8,0735,20.403
+S1,08701,13.88,018.0,094.3,247.2,399.4,552.9,09.5,076.7,076.7
+S2,08431,13.89,018.0,094.5,247.5,397.8,553.5,09.5,076.6,076.6
+T1,024,49,098,076,100,096.2,028.9,066.0,070,0411,0303
+T2,024,53,102,084,108,096.7,030.1,066.3,070,0411,0302
+V1,0.11,0.25,0.05,083,0.31,015.5,059,1,00,167811
+V2,0.25,0.21,0.07,086,0.38,015.0,059,1,00
+C9,01.56.40,004.6,19950,0.646,111,1.17,111,10,0,01,111,1.17,X
+C0,01.56.40,004.6,19950,0.646,111,1.17,111,10,0,01,111,1.17,X
+N3,1.575,1.575,1.575,1.633,087.53,093.8,094.4,0753,14.288
+N4,1.575,1.575,1.575,1.633,087.47,093.9,094.3,0754,14.273
+S3,06704,08.96,004.8,069.8,247.2,301.6,555.1,06.5,071.6,071.6
+S4,06604,08.96,004.8,069.8,247.9,301.4,554.8,06.4,071.6,071.6
+T3,027,49,128,068,093,123.1,026.8,046.7,046,0493,0418
+T4,036,53,142,070,095,124.5,027.4,047.1,046,0492,0421
+V3,0.23,0.08,0.08,073,0.25,015.5
+V4,0.19,0.11,0.10,116,0.25,015.2
+X1,1.460,017.7,02808,0.225,0,20
+X2,1.515,010.2,10030,0.448,0,80
+X3,1.575,004.3,20037,0.647,0,80
+X4,1.596,-06.3,25015,0.716,0,80:
+
+
+
+INFO  [2017-04-12 13:28:33,790] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU HKGYRCX
+.BJSXCXA 010200
+M21
+FI KA858/AN B-HLB
+DT BJS HKG 010200 M15A
+-  LSA,V02,KA 858 20170401 1,VHHH,ZSSS,331577B,01,Y
+01APR17,015958
+
+
+NOT
+
+
+INFO  [2017-04-12 13:28:33,856] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU BJSAGCA
+.BJSXCXA 010200
+A81
+FI CA1921/AN B-8493
+DT BJS TNA 010200 M13A
+-  FLT1590
+
+
+INFO  [2017-04-12 13:28:33,924] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU BJSAGCA
+.BJSXCXA 010200
+MAS
+AN B-8502/FI CA4272/MA 087S
+DT BJS CGO 010200 S66A
+
+
+INFO  [2017-04-12 13:28:33,994] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU CANXMCZ
+.DDLXCXA 010200
+M17
+FI CZ345/AN B-8359
+DT DDL GOT 010200 M87A
+-  PRESENT POSITION REPORT 
+DMY 01APR17,UTC 015954,FLT CZ345,LAT N 56.838,LON E 17.000,CAS 268,WD 26701,WS   57,ALT 36000,FOB 187,ETA 0327,ZBAA,EHAM,------,---,- 37,- 64,92,PS027840,PS027590,ABKOTAM,,1588,,
+
+
+INFO  [2017-04-12 13:28:34,061] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU ARINCXA
+.BJSXCXA 010200
+A83
+FI XA1/AN B8192
+DT BJS SZX 010200 M65A
+-  001PR01015959N2239.3E11346.4018204    
+
+
+INFO  [2017-04-12 13:28:34,126] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU SHAUO9C
+.BKKXCXA 010200
+M11
+FI 9C8536/AN B-6706
+DT BKK CJU 010200 M15A
+-  000082-1200  DEP RJGG ETA 0326 DES ZSNB LON E127.154 LAT N 32.586 TWP ------- FOB  165 ALT 29993 CAS 278 WID 24200 WIS  121 END
+
+
+INFO  [2017-04-12 13:28:34,194] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU BJSAGCA
+.BJSXCXA 010200
+DFD
+FI CA4513/AN B-6711
+DT BJS CTU 010200 D08A
+-  A321,012215,1,1,TB000000/REP018,00,00,1/FFL001CFC1
+.B-6711;CCA4513;17APR01;0159;ES;ZUUU-ZSPD;D09SACF05CDCFC1;
+2 ON;
+L01;015920;10536;15714;14109; 4510;    115;
+L02;121.8;    0;    0;   273;  3443;     0;1.243;
+L03; 14678;    0; 6247; 2099; 6337;    0;  30.563; 103.947;
+L04;  1333;    0;-.-;---.-; 20.5; 20.5;1;0; 965;
+L05;14098;15714; 4510;YES;
+
+
+
+INFO  [2017-04-12 13:28:34,259] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU CANXMCZ
+.DDLXCXA 010200
+M45
+FI CZ327/AN B-6140
+DT DDL LAX 010200 U25A
+-  OPN010159,----,----,0281
+
+
+INFO  [2017-04-12 13:28:34,323] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU CANXMCZ
+.DDLXCXA 010200
+M14
+FI CZ327/AN B-6140
+DT DDL LAX 010200 U26A
+-  ZGGGKLAX01590281  FI 0327/DD 31
+A/C POS 33.94020206037267 -118.4104684020947 DATE 01APR17
+
+
+
+INFO  [2017-04-12 13:28:34,390] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU CANXMCZ
+.BJSXCXA 010200
+M17
+FI CZ3123/AN B-6579
+DT BJS WUH 010200 M09A
+-  PRESENT POSITION REPORT 
+DMY 01APR17,UTC 015954,FLT CSN3123,LAT N 33.003,LON E114.668,CAS 290
+,WD 34415,WS   39,ALT 26601,ETA 0322,ZGHA,ZBAA,------,---,- 20,- 43,
+52,PS029410,PS029950,-------,,652,0,
+
+
+ERROR [2017-04-12 13:28:34,422] com.adcc.utility.mq.transfer.active.ActiveMQTransfer 
+stopAsync() error
+java.lang.NullPointerException
+	at com.google.common.base.Preconditions.checkNotNull(Preconditions.java:210)
+	at com.google.common.base.Optional.of(Optional.java:85)
+	at com.adcc.utility.mq.transfer.active.ActiveMQTransfer.retrunConnection(ActiveMQTransfer.java:153)
+	at com.adcc.utility.mq.transfer.active.ActiveMQTransfer.stopAsync(ActiveMQTransfer.java:587)
+	at com.adcc.tool.amqssimulator.view.AMQSMainShell.cancelAutoSend(AMQSMainShell.java:926)
+	at com.adcc.tool.amqssimulator.view.AMQSMainShell.access$200(AMQSMainShell.java:47)
+	at com.adcc.tool.amqssimulator.view.AMQSMainShell$3.widgetSelected(AMQSMainShell.java:186)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(Unknown Source)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(Unknown Source)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Unknown Source)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Unknown Source)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Unknown Source)
+	at com.adcc.tool.amqssimulator.view.AMQSMainShell.main(AMQSMainShell.java:125)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:134)
+ERROR [2017-04-12 13:28:37,020] com.adcc.utility.mq.transfer.ibm.IBMMQTransfer$MonitorRunnable 
+run () error
+java.lang.InterruptedException: sleep interrupted
+	at java.lang.Thread.sleep(Native Method)
+	at com.adcc.utility.mq.transfer.ibm.IBMMQTransfer$MonitorRunnable.run(IBMMQTransfer.java:686)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+INFO  [2017-04-12 13:28:37,025] RECV 
+mqInfo:{channel=CHL.AMQS1, qm=AMQS1, port=1414, url=192.168.246.99} state:DISCONNECTED
+ERROR [2017-04-12 13:28:37,026] com.adcc.utility.mq.transfer.active.ActiveMQTransfer 
+stopAsync() error
+java.lang.NullPointerException
+	at com.google.common.base.Preconditions.checkNotNull(Preconditions.java:210)
+	at com.google.common.base.Optional.of(Optional.java:85)
+	at com.adcc.utility.mq.transfer.active.ActiveMQTransfer.retrunConnection(ActiveMQTransfer.java:153)
+	at com.adcc.utility.mq.transfer.active.ActiveMQTransfer.stopAsync(ActiveMQTransfer.java:587)
+	at com.adcc.tool.amqssimulator.view.AMQSMainShell.btnDisconnect(AMQSMainShell.java:695)
+	at com.adcc.tool.amqssimulator.view.AMQSMainShell.access$700(AMQSMainShell.java:47)
+	at com.adcc.tool.amqssimulator.view.AMQSMainShell$8.widgetSelected(AMQSMainShell.java:317)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(Unknown Source)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(Unknown Source)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Unknown Source)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Unknown Source)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Unknown Source)
+	at com.adcc.tool.amqssimulator.view.AMQSMainShell.main(AMQSMainShell.java:125)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:134)
+INFO  [2017-04-12 13:28:39,861] RECV 
+mqInfo:{channel=CHL.AMQS1, qm=AMQS1, port=1414, url=192.168.246.99} state:DISCONNECTED
+ERROR [2017-04-12 13:28:39,861] com.adcc.utility.mq.transfer.active.ActiveMQTransfer 
+stopAsync() error
+java.lang.NullPointerException
+	at com.google.common.base.Preconditions.checkNotNull(Preconditions.java:210)
+	at com.google.common.base.Optional.of(Optional.java:85)
+	at com.adcc.utility.mq.transfer.active.ActiveMQTransfer.retrunConnection(ActiveMQTransfer.java:153)
+	at com.adcc.utility.mq.transfer.active.ActiveMQTransfer.stopAsync(ActiveMQTransfer.java:587)
+	at com.adcc.tool.amqssimulator.view.AMQSMainShell.btnDisconnect(AMQSMainShell.java:695)
+	at com.adcc.tool.amqssimulator.view.AMQSMainShell.close(AMQSMainShell.java:437)
+	at com.adcc.tool.amqssimulator.view.AMQSMainShell.access$000(AMQSMainShell.java:47)
+	at com.adcc.tool.amqssimulator.view.AMQSMainShell$1.shellClosed(AMQSMainShell.java:153)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(Unknown Source)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(Unknown Source)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Unknown Source)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Unknown Source)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Unknown Source)
+	at org.eclipse.swt.widgets.Decorations.closeWidget(Unknown Source)
+	at org.eclipse.swt.widgets.Decorations.WM_CLOSE(Unknown Source)
+	at org.eclipse.swt.widgets.Control.windowProc(Unknown Source)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Unknown Source)
+	at org.eclipse.swt.widgets.Decorations.windowProc(Unknown Source)
+	at org.eclipse.swt.widgets.Shell.windowProc(Unknown Source)
+	at org.eclipse.swt.widgets.Display.windowProc(Unknown Source)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProcW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProc(Unknown Source)
+	at org.eclipse.swt.widgets.Shell.callWindowProc(Unknown Source)
+	at org.eclipse.swt.widgets.Control.windowProc(Unknown Source)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Unknown Source)
+	at org.eclipse.swt.widgets.Decorations.windowProc(Unknown Source)
+	at org.eclipse.swt.widgets.Shell.windowProc(Unknown Source)
+	at org.eclipse.swt.widgets.Display.windowProc(Unknown Source)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProcW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProc(Unknown Source)
+	at org.eclipse.swt.widgets.Shell.callWindowProc(Unknown Source)
+	at org.eclipse.swt.widgets.Control.windowProc(Unknown Source)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Unknown Source)
+	at org.eclipse.swt.widgets.Decorations.windowProc(Unknown Source)
+	at org.eclipse.swt.widgets.Shell.windowProc(Unknown Source)
+	at org.eclipse.swt.widgets.Display.windowProc(Unknown Source)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessageW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessage(Unknown Source)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Unknown Source)
+	at com.adcc.tool.amqssimulator.view.AMQSMainShell.main(AMQSMainShell.java:125)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:134)

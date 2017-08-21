@@ -1,0 +1,819 @@
+INFO  [2017-04-11 18:19:56,849] RECV 
+mqInfo:{channel=CHL.AMQS1, qm=AMQS1, port=1414, url=192.168.246.99} state:CONNECTED
+INFO  [2017-04-11 18:20:04,241] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU CTUUO3U
+.BJSXCXA 140326
+M23
+FI 3U8888/AN B-2300
+DT BJS CTU 140326 M69A
+-  ON
+DES ZUUU,ON 0326,FOB 15000
+
+INFO  [2017-04-11 18:20:04,315] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU CTUUO3U
+.BJSXCXA 140326
+M23
+FI 3U8888/AN B-2300
+DT BJS CTU 140326 M69A
+-  ON
+DES ZUUU,ON 0326,FOB 15000
+
+INFO  [2017-04-11 18:20:04,387] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU CTUUO3U
+.BJSXCXA 140326
+M23
+FI 3U8888/AN B-2300
+DT BJS CTU 140326 M69A
+-  ON
+DES ZUUU,ON 0326,FOB 15000
+
+INFO  [2017-04-11 18:20:04,452] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU CTUUO3U
+.BJSXCXA 140326
+M23
+FI 3U8888/AN B-2300
+DT BJS CTU 140326 M69A
+-  ON
+DES ZUUU,ON 0326,FOB 15000
+
+INFO  [2017-04-11 18:20:04,520] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU XMNMFMF
+.BJSXCXA 180950
+DFD
+FI MF8105/AN B-2763
+DT BJS PEK 180950 D95A
+-  <411>GEG
+8 B-2763CXA8105   ZBAAZBAA180516094955  17TI342355 17
+   184 30)10)  303 40072 116595  -71XIA52ACMF0038 9484
+AAEH003625
+-2616565  48 21 372 56 55 57166  )165
+-2516566  48 21 372 56 54 57166  )165
+-2416567  48 22 372 56 54 57166  )165
+-2316567  48 22 372 56 55 56166  )165
+-2216568  48 21 372 56 54 57165  )165
+-2116567  48 22 372 56 54 57166  )165
+-2016566  48 22 372 55 54 56166  )165
+-1916565  49 21 372 56 54 57166  )165
+-1816566  48 22 372 56 54 56166  )165
+-1716568  48 21 372 56 55 56166  )165
+-1616567  48 21 372 56 54 57166  )165
+-1516567  48 21 372 56 54 57165  )165
+-1416566  48 21 372 56 54 56165  )165
+-1316565  48 21 372 56 54 57166  )165
+-1216566  48 21 372 56 54 56166  )165
+-1116567  48 22 372 56 54 56166  )165
+-1016568  48 21 372 56 55 57166  )165
+ -916567  49 22 372 55 54 56166  )165
+ -816566  48 22 372 55 54 56166  )165
+ -716565  48 22 372 56 54 56166  )165
+ -616565  48 22 372 55 54 56166  )165
+ -516567  48 22 372 55 54 56166  )165
+ -416568  48 21 372 56 54 56166  )165
+ -316567  48 22 372 56 54 57166  )165
+ -216566  48 20 372 56 54 56166  )165
+ -116565  49 21 372 56 54 56166  )165
+  016566  49 22 372 56 54 57165  )165
+  116567  48 21 372 56 54 57165  )165
+  216567  48 22 372 56 54 57166  )165
+  316568  48 22 372 56 54 57166  )165
+  416568  48 21 372 56 54 57166  )165
+  516566  48 21 372 56 54 57166  )165
+
+
+INFO  [2017-04-11 18:20:04,592] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU XMNMFMF
+.BJSXCXA 180952
+DFD
+FI MF8105/AN B-2763
+DT BJS PEK 180952 D96A
+-  GCB1805160952 10000 22700 10800
+0713071307160942 1745.50 10110722
+
+
+INFO  [2017-04-11 18:20:04,660] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU XMNMFMF
+.BJSXCXA 180952
+M49
+FI MF8105/AN B-2763
+DT BJS PEK 180952 M98A
+-  01TISD   CXA8105/180952ZSAMZBAA
++  123*****+ 30.4
+
+
+INFO  [2017-04-11 18:20:04,728] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU XMNMFMF
+.BJSXCXA 180952
+CFD
+FI MF8105/AN B-2763
+DT BJS PEK 180952 C15A
+-  PLF461100 1 18MAY16 0952 MF B-2763 CXA8105 ZSAM/ZBAA BCG49-45LD-0042 C L 0711 18MAY16
+EOR
+
+
+
+INFO  [2017-04-11 18:20:04,797] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU XMNMFMF
+.BJSXCXA 180953
+CFD
+FI MF8105/AN B-2763
+DT BJS PEK 180953 C16A
+-  PLF461200 1 18MAY16 0953 MF B-2763 CXA8105 ZSAM/ZBAA BCG49-45LD-0042 C L 0711 18MAY16
+MSG 4610442 I 0944 18MAY16 TI I 1 PL
+DB CONTROLLER SERVER MODULE
+FRC 442
+EOR
+
+
+
+INFO  [2017-04-11 18:20:04,868] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU XMNMFMF
+.BJSXCXA 180953
+DFD
+FI MF8105/AN B-2763
+DT BJS PEK 180953 D97A
+-  <723>CEG
+8  B-2763CXA8105   SD  17180516095247ZBAAZBAA 9656 23
+   188 30)10)342202 304  2400XIA52ACMF0038
+ 40078 116590 -9704 -> SD ______________5658156581
+ 0010192 000000 0010192 000000
+ 0010192 000000 0010192 000000
+ 0010192 000000 0010192 000000
+ 0010192 000000 0010192 000000
+ 0010192 000000 0010192 000000
+  8889    72  9570
+  5984  2596  9081
+    61385  10390    64247
+   1   03  96561000
+170516 180840170516 180132
+160516 213322160516 201419
+140516 081306140516 075228
+120516 213859120516 201129
+311299 235959120516 181704
+000000000001000000000000000000
+000000000000000000000000000000
+000000000000000000000000000000
+000000
+ 2 3 4 5 6 7 8 911121314 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0
+
+
+INFO  [2017-04-11 18:20:04,939] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU XMNMFMF
+.BJSXCXA 180953
+CFD
+FI MF8105/AN B-2763
+DT BJS PEK 180953 C17A
+-  PLF710000 1 18MAY16 0953 MF B-2763 CXA8105 ZSAM/ZBAA BCG49-45LD-0042 C L 0711 18MAY16
+EOR
+
+
+
+INFO  [2017-04-11 18:20:05,010] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU XMNMFMF
+.BJSXCXA 180953
+DFD
+FI MF8105/AN B-2763
+DT BJS PEK 180953 D98A
+-  <390>FEG
+8 17 B-2763CXA8105     17180516084540ZSAMZBAA
+XIA52ACMF0038 34931 117169
+ 7 5629854 187 40097-238 -555
+000200
+ 10 133  08  18  269 903   06 180
+ 2245 2250  650   0) 1853   0)
+0))100000000
+58330  11  31 44 44 45
+14 965610)1006   188 304  303
+000200
+ 14 163XXXX  18  269 907 148 171
+ 2245 2250  650   0) 1819   0)
+0))0000001B2
+76230  35  52101100102
+
+
+INFO  [2017-04-11 18:20:05,081] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU XMNMFMF
+.BJSXCXA 180953
+TT6
+FI MF8105/AN B-2763
+DT BJS PEK 180953 617A
+-  EL1001MF B-27632CXA8105   16051809533300000000-0380E0195641967000013000022447M85P02B185B1850404090B2122M32P08      2462M81P03  2462M82P03  D
+
+
+INFO  [2017-04-11 18:20:05,152] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU XMNMFMF
+.BJSXCXA 180953
+CFD
+FI MF8105/AN B-2763
+DT BJS PEK 180953 C18A
+-  PLF711000 1 18MAY16 0953 MF B-2763 CXA8105 ZSAM/ZBAA BCG49-45LD-0042 C L 0711 18MAY16
+EOR
+
+
+
+INFO  [2017-04-11 18:20:05,222] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU XMNMFMF
+.BJSXCXA 180953
+TT5
+FI MF8105/AN B-2763
+DT BJS PEK 180953 516A
+-  EL1001MF B-27631CXA8105   16051809533300000000-0380E0195659467000013000022447M85P02B185B1850404040B2122M32P08      2462M81P03  2462M82P03  D
+
+
+INFO  [2017-04-11 18:20:05,292] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU XMNMFMF
+.BJSXCXA 180953
+DFD
+FI MF8105/AN B-2763
+DT BJS PEK 180953 D99A
+-  <404>EEG 19
+8 B-2763CXA8118   PO  161805160624340000000012248XIA52ACMF0038
+PO 107 115    77  28.9
+TA  98 101    85  26.9
+TR 103 106   126  29.2
+CL  88  91 31890  -2.7
+ER  78  79 27598  -7.3
+DC  84  87  1987  26.6
+AP 109 110   100  31.7
+RO 114 114   113  30.4
+TI 109 113   123  30.4
+PO NGS563  58 77 865194195196148147148
+TA EMP563  52 66 802178179180141139140
+TR EMP566  51 34 683133134135121120121
+CL NGS564  44 60 996135136136160158159
+ER NGS563  38 701111136136137167165166
+DC EMP563  41 62 958144145146158156157
+AP EMP563  55 53 816151151152141140140
+RO EMP564  57 46 750163164165137136137
+TI NGS563  57 64 818176176177141140141
+PO571  52  0   0 56 57  3  1  1  0
+TA566  51 33 683135136137121120121
+TR564  51 34 683131131132121120121
+CL563  38 651080130130130167165166
+ER562  41 781134153153153167165166
+DC561  53 69 917165165166154152153
+AP562  56 42 735154155156133132133
+RO563  58 48 755163164165138137137
+TI563  56 46 725163163164130128129
+AAEH003587
+PO NGS560  62 85 898203205203148147147
+TA EMP562  53 73 837184186184142140140
+TR EMP561  51 37 712138140138128127127
+CL NGS561  45 691050146147145162160160
+ER NGS560  38 761151147149146167165165
+DC EMP562  42 64 967150152150158156156
+AP EMP561  54 51 779170172170145143143
+RO EMP563  56 44 754158160158138136137
+TI NGS562  58 69 843182183182143142142
+PO569  55  0   0 53  4 52  2  1  2
+TA563  51 34 698134136134125124124
+TR562  51 37 716137139137128127127
+CL559  38 741137145147145167165165
+ER561  42 861169165167165164162162
+DC562  53 54 799178180177150148149
+AP561  55 46 757157158157138137137
+RO563  56 46 756159160158138137137
+TI561  57 57 780197199197148147147
+AAEH003630
+
+
+INFO  [2017-04-11 18:20:05,361] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU XMNMFMF
+.BJSXCXA 180954
+M49
+FI MF8105/AN B-2763
+DT BJS PEK 180954 M99A
+-  01SDPO   CXA8105/180954ZSAMZBAA
++  122*****+ 30.3
+
+
+INFO  [2017-04-11 18:20:05,435] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU XMNMFMF
+.BJSXCXA 180954
+M37
+FI MF8105/AN B-2763
+DT BJS PEK 180954 M01A
+-  HCK27638105ZSAMZBAA05180954
+
+
+INFO  [2017-04-11 18:20:05,507] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU XMNMFMF
+.BJSXCXA 180954
+M37
+FI MF8105/AN B-2763
+DT BJS PEK 180954 M02A
+-  OPN27638105ZSAMZBAA05180954
+
+
+INFO  [2017-04-11 18:20:05,574] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU XMNMFMF
+.BJSXCXA 181943
+MED
+FI MF0/AN B-2763
+DT BJS XMN 181943 S05A
+-  0E21943482/
+
+
+INFO  [2017-04-11 18:20:05,639] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU XMNMFMF
+.DDLXCXA 181948
+MED
+FI MF0/AN B-2763
+DT DDL XXI 181948 S07A
+-  0ES1948392S/
+
+
+INFO  [2017-04-11 18:20:05,704] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU XMNMFMF
+.BJSXCXA 182159
+MED
+FI MF0/AN B-2763
+DT BJS XMN 182159 S01A
+-  0E22159572/
+
+
+INFO  [2017-04-11 18:20:05,768] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU XMNMFMF
+.BJSXCXA 181339
+TT5
+FI MF8106/AN B-2763
+DT BJS XMN 181339 523A
+-  PFS006MF B-27631CXA8106   16051813385200000000-037010195659467000013000022447M85P02B185B1850404010B2122M32P08      2462M81P03  2462M82P03  0G5IA1M0T20T005A1OAEN9OF0SH1UG0G5IB0C0E1MA0B5A1KAMAB8B86PO1JI01900O00KA431VP1DK05EA1DLA14A44C11F3R19M01DU1UD1231U91UB1UH1K90V21VL0049T30FF09GG3J0G5ID010A1IH0M69JSAOQB9B89MI1ES01901B0L9A957BR0IT0K710PQ9RCAC1EG1GM61J305E61BD1KD13015U1UH1PH0V21VL003A6F0FF0HGG590G5ID011A1GL0LR9JUAORB9B89JK1ES0190180LAA8G7270IT0I7U0PQ9RFABUEF9GHQ1I004NR1D61IS12I1441UH1680V21VL004A1B0FF0HGG5F5ID130L1KD0ARA08AMCB7B86LI1I000T00O00GA331UU1DQ05AS1DR9VPA2RBV8F4619I01C51UJ11V1261271UH1KP0V21VL0049T30FF0PGG3C5ID131G1PV01EA08AMAB7B81TN1NFA08A08A1R0G5ID161KB7B81S5A07A07A25000G0G0G0G0G0G0G0G0G05555555550IIIIIIIII0BBBBCCCCC000T0M1B160A1P1K1H0500000F00E00A009006004003003003008E8H7K737V878P9173000004003005004003000000000000008Q8Q7S7G7F0000000000000T01B01Q02001T00F00G0000000040120040000000000000000000000000000000000000R0T0V000000000000000000000000000000000000000000000000000000::::::::::::::::::::::)))0G5IB0L0H2B10BU90GDA10AA02R02E01H00O00F00A0080070050045K56146T90CV20C00E62F5LG6UK16002Q02D01G00T00R00O0080070060055K561I6T920C00E3VR6070CV5LG6UK0G5IB170K25Q0BC90F8O0UPJ02R02E01H01G00L00A0070060060035K561I6T91T80C200E6075LG6UK13A02P02E01G01C00Q00J0090070070065K561I6T91T800E3Q10CH60770R5LGFFFG6584VBR255AB        E1787004000L7L00IN0G5IB0D020G5ID0T0U((((()((((((((((((((()((((()((((()((((()((((((((((((((()((((()(((((()(((((()0G28(((((00A(((()((((((()((((((()((((((()((((((()((((((()((((((()((((((()((((((()((((((()(((()(((()(((()(((()(08(0O008(((()((((001((((001((((001((((()(((((((001(((()(001()()()()()()()()()()()()()0404020102000S60000CL0CMAR33S61UNBVSH01UA1V7SL9BV7U09L19LN9BV00H8C00P
+
+
+INFO  [2017-04-11 18:20:05,836] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU XMNMFMF
+.BJSXCXA 181339
+DFD
+FI MF8106/AN B-2763
+DT BJS XMN 181339 D77A
+-  <202>HEG
+8 B-2763CXA8106   TI  18180516133107ZSAMZSAM 9403 26
+    47 30)10)317890 250  2200XIA52ACMF0038
+110121011614500F
+TT    0ST   25
+2E-Y700-6147
+B1000802E88030107E000801D9923E10D1000001F2696723
+ 1012      1746         3      1742 1707
+   09547000546H13  1200  1878
+   18 1008   17  995    1   13
+ 00)    )    )
+13321314500 250  24   47F F  313
+ 569 566 566  801016T
+  480  522  501139139T
+132  16  00 692 652 200
+ 56 52 25 24  2  28F
+0000000000000000000000000000000000000000000000000000
+.................
+...............................
+.....................
+.......................
+....................
+....................................................
+133321  00  00    561425024952  24
+..................................
+..................................
+..................................
+..................................
+1015  329  642F272272
+.....................
+.....................
+.....................
+.....................
+259  17  0013481353 000
+.......................
+.......................
+.......................
+.......................
+ 97 92 36 36  4  38
+...................
+...................
+...................
+...................
+ 4750000
+........
+........
+........
+........
+000000000000000000000000000000000000000000000000
+................................................
+................................................
+................................................
+................................................
+.....................
+.................................
+.....................
+.......................
+...................
+............................
+....................
+...........................
+......
+....................................................
+..........
+....................................................
+
+
+INFO  [2017-04-11 18:20:05,906] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU XMNMFMF
+.BJSXCXA 181339
+M37
+FI MF8106/AN B-2763
+DT BJS XMN 181339 M34A
+-  KCK27638106ZBAAZSAM05181339
+
+
+INFO  [2017-04-11 18:20:05,976] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU XMNMFMF
+.BJSXCXA 181339
+M37
+FI MF8106/AN B-2763
+DT BJS XMN 181339 M35A
+-  OPN27638106ZBAAZSAM05181339
+
+
+INFO  [2017-04-11 18:20:06,044] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU XMNMFMF
+.BJSXCXA 181339
+M14
+FI MF8106/AN B-2763
+DT BJS XMN 181339 M36A
+-  INN01   CXA8106/**181339ZBAAZSAM
+1335 112
+
+
+INFO  [2017-04-11 18:20:06,112] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU XMNMFMF
+.BJSXCXA 181339
+TT6
+FI MF8106/AN B-2763
+DT BJS XMN 181339 624A
+-  PFS006MF B-27632CXA8106   16051813385100000000-037010195641967000013000022447M85P02B185B18504040E0B2122M32P08      2462M81P03  2462M82P03  0G5IA1M0P22H002A1OAEN9OF0SK1UG0G5IB0B1L1M90APA1LAMCB8B86PO1I000M00K00FA332401DL05LV1DLA14A42C23F1419V01F21UB1241U71U91UO1II0V61VP0079T50FF09GG3M0G5ID010B1GM0LH9JRAOQB9B89MD1DA00T0150LDA947C40IT0KF30PS9RDABVEHOGIJ1J805D01BB1KC12I16M1UP1PL0V61VP006A6H0FF0HGG5N0G5ID011B1GM0L69JSAORB9B89J11DA00V0180LBA8E7150IT0I970PR9RGABKEFQGBK1I204LM1DB1IQ12A1471UP1680V61VP007A1C0FF0HGG5P5ID130K1IF0AAA09AM7B7B86LD1ES00G00M00GA321U91DQ05G91DR9VOA2OBVSF0C19P01CV1UL11V1281271UO1JV0V61VP0089T50FF0PGG3L5ID131F1PU01AA08AM6B7B81TJ1L4A09A08A2F0G5ID161JB7B81S5A08A07A2F000G0G0G0G0G0000000005555500000IIIII00000BBCBB0000000O0O070I0D000000000000060080050050050000000000000089869B7S8F00000000000003003004004003000000000000000J0C060BAC0000000000000Q01101E01E01F01100M00000000400400400000000000000000000000000000000000008090A000000000000000000000000000000000000000000000000000000::::::::::::::::::::::)))0G5IB0L0I2B00BTU0GD3109A02Q02D01G00J00H0090070060050045K561I6T920C0CV0PF6075LG6UK16002R02E01H01C00R0090080070060055K561I6T900E1VU0CV3VD6075LG6UK0G5IB170J25Q0BBR0F8J0UOB02Q02D01H00S0090080060060040035K56146TN1T80NM62F5LG0C26SC04102R02E01H01E01C0070070060040035K561I6TN1T800E6073PJ5LG6SC0C2FFFG6601VBR258AB        E1787004000L8I00IO0G5IB0D020G5ID0T0T((((()((((((((((((((()((((()((((()((((()((((((((((((((()((((()(((((()(((((()0818(((((006(((()((((((()((((((()((((((()((((((()((((((()((((((()((((((()((((((()((((((()(((()(((()(((()(((()(((()(((()((((001((((001((((001((((()(((((((001(((()(001()()()()()()()()()()()()()0404020102000OP0AL0000ANAQ63RT1UNBVSH01UA1S7T09C27UI9L19LN9BU00GAM000
+
+
+INFO  [2017-04-11 18:20:06,184] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU XMNMFMF
+.BJSXCXA 181339
+M37
+FI MF8106/AN B-2763
+DT BJS XMN 181339 M37A
+-  HCK27638106ZBAAZSAM05181339
+
+
+INFO  [2017-04-11 18:20:06,251] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU XMNMFMF
+.DDLXCXA 181427
+MED
+FI MF0/AN B-2763
+DT DDL XXI 181427 S17A
+-  0L2142722S/
+
+
+INFO  [2017-04-11 18:20:06,318] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU XMNMFMF
+.BJSXCXA 181427
+MED
+FI MF0/AN B-2763
+DT BJS XMN 181427 S20A
+-  0E21427282S/
+
+
+INFO  [2017-04-11 18:20:06,387] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU XMNMFMF
+.BJSXCXA 181500
+DFD
+FI MF0/AN B-2763
+DT BJS XMN 181500 D78A
+-  <421>EEG
+ B-2763CXA8118   ZBAAZSAM180516030141  16 11
+XIA52ACMF0038
+..........................................................
+..........................................................
+..........................................................
+..........................................................
+..........................................................
+..........................................................
+  2  4 11 15
+ 93129141
+    0    0    0    0    0    0    0    0    0    0
+    0    0    0    0    0    0    0    0    0    0
+    0    0    0  450    0    0    0    0    0    0
+
+
+INFO  [2017-04-11 18:20:06,458] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU XMNMFMF
+.BJSXCXA 181512
+MED
+FI MF0/AN B-2763
+DT BJS XMN 181512 S01A
+-  0E21512582/
+
+
+INFO  [2017-04-11 18:20:06,524] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU XMNMFMF
+.BJSXCXA 180532
+DFD
+FI MF8118/AN B-2763
+DT BJS HGH 180532 D02A
+-  WOBB-2763ZBAAZSAM05184003
+0523N046N3553110580607N2947E11709277033
+0526N041N3513109680707N2922E11708279029
+0529N037N3463109580507N2858E11714286028
+0532N037N3473110280607N2834E11721292034
+
+
+INFO  [2017-04-11 18:20:06,592] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU XMNMFMF BJSATYA
+.BJSXCXA 180533
+ RAI
+FI MF8118/AN B-2763
+DT BJS WUS 180533 L09A
+-  TI2/030ZSAMAB2A5
+
+
+INFO  [2017-04-11 18:20:06,659] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU XMNMFMF
+.BJSXCXA 180534
+WXR
+FI MF8118/AN B-2763
+DT BJS HGH 180534 M53A
+-  FS ZSFZ,
+
+
+INFO  [2017-04-11 18:20:06,725] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU XMNMFMF
+.BJSXCXA 180537
+DFD
+FI MF8118/AN B-2763
+DT BJS KHN 180537 D03A
+-  PO71805160537 31099N 2754.0E11736.2 12000
+
+
+INFO  [2017-04-11 18:20:06,795] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU XMNMFMF
+.BJSXCXA 180543
+DFD
+FI MF8118/AN B-2763
+DT BJS KHN 180543 D04A
+-  <370>EEG
+8 B-2763CXA8118   ZBAAZSAM180516053857  16ER328981 22
+ 306572991796  -29 27672 117662 1704XIA52ACMF0038 9511
+1NORM AUTO
+  15
+  15
+406409402668669670
+530540530XXXXXXXXX
+231231231231231231
+232232232232232232
+......
+.......................................................
+.......................................................
+.......................................................
+.......................................................
+.......................................................
+.......................................................
+.......................................................
+.......................................................
+.......................................................
+.......................................................
+.......................................................
+.......................................................
+.......................................................
+.......................................................
+.......................................................
+054026
+-12  94   4   4   6   6   4   4  9211DEICE302 29896 -12
+-10  94   4   4   6   6   4   4  9411DEICE301 29873 -12
+ -8  96   4   4   6   6   4   4  9411DEICE301 29853 -12
+ -6  96   4   4   6   6   4   4  9611DEICE301 29830 -12
+ -5  96   4   4   6   6   4   4  9611DEICE301 29826 -12
+ -4  98   4   4   6   6   4   4  9601DEICE301 29813 -12
+ -2  98   4   4   6   6   4   4  9601DEICE300 29794 -11
+  1  98   4   4   6   6   4   4  9800CLEAN300 29773 -11
+  3 100   4   4   6   6   4   4  9800CLEAN301 29748 -11
+  5 100   4   6   6   6   4   4 10000CLEAN300 29735 -11
+  7 100   4   6   6   6   4   6 10000CLEAN300 29710 -11
+  9 102   4   6   6   6   4   6 10000CLEAN300 29693 -11
+ 11 102   6   6   6   6   4   6 10200CLEAN300 29670 -10
+ 13 104   6   6   6   6   4   6 10200CLEAN300 29654 -09
+ 31 106   6  10   6   6   8   6 10400CLEAN298 29477 -10
+ 1
+053859054022 15 00 00 00ER
+............
+..........................
+............
+..........................
+............
+..........................
+............
+..........................
+............
+
+
+INFO  [2017-04-11 18:20:06,869] SEND 
+send message to queue:Q.AMQSTOGW MESSAGE:
+head:{}
+content:
+QU XMNMFMF
+.BJSXCXA 180544
+A83
+FI MF8118/AN B-2763
+DT BJS KHN 180544 M54A
+-  ZBAA,ZSAM,180544, 27.01, 117.85,27185,300, 174.0, 11600
+
+
+ERROR [2017-04-11 18:20:06,907] com.adcc.utility.mq.transfer.ibm.IBMMQTransfer$MonitorRunnable 
+run () error
+java.lang.InterruptedException: sleep interrupted
+	at java.lang.Thread.sleep(Native Method)
+	at com.adcc.utility.mq.transfer.ibm.IBMMQTransfer$MonitorRunnable.run(IBMMQTransfer.java:686)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+INFO  [2017-04-11 18:20:06,910] RECV 
+mqInfo:{channel=CHL.AMQS1, qm=AMQS1, port=1414, url=192.168.246.99} state:DISCONNECTED
+ERROR [2017-04-11 18:20:06,911] com.adcc.utility.mq.transfer.active.ActiveMQTransfer 
+stopAsync() error
+java.lang.NullPointerException
+	at com.google.common.base.Preconditions.checkNotNull(Preconditions.java:210)
+	at com.google.common.base.Optional.of(Optional.java:85)
+	at com.adcc.utility.mq.transfer.active.ActiveMQTransfer.retrunConnection(ActiveMQTransfer.java:153)
+	at com.adcc.utility.mq.transfer.active.ActiveMQTransfer.stopAsync(ActiveMQTransfer.java:587)
+	at com.adcc.tool.amqssimulator.view.AMQSMainShell.btnDisconnect(AMQSMainShell.java:695)
+	at com.adcc.tool.amqssimulator.view.AMQSMainShell.access$700(AMQSMainShell.java:47)
+	at com.adcc.tool.amqssimulator.view.AMQSMainShell$8.widgetSelected(AMQSMainShell.java:317)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(Unknown Source)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(Unknown Source)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Unknown Source)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Unknown Source)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Unknown Source)
+	at com.adcc.tool.amqssimulator.view.AMQSMainShell.main(AMQSMainShell.java:125)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:134)
+INFO  [2017-04-11 18:20:11,340] RECV 
+mqInfo:{channel=CHL.AMQS1, qm=AMQS1, port=1414, url=192.168.246.99} state:DISCONNECTED
+ERROR [2017-04-11 18:20:11,340] com.adcc.utility.mq.transfer.active.ActiveMQTransfer 
+stopAsync() error
+java.lang.NullPointerException
+	at com.google.common.base.Preconditions.checkNotNull(Preconditions.java:210)
+	at com.google.common.base.Optional.of(Optional.java:85)
+	at com.adcc.utility.mq.transfer.active.ActiveMQTransfer.retrunConnection(ActiveMQTransfer.java:153)
+	at com.adcc.utility.mq.transfer.active.ActiveMQTransfer.stopAsync(ActiveMQTransfer.java:587)
+	at com.adcc.tool.amqssimulator.view.AMQSMainShell.btnDisconnect(AMQSMainShell.java:695)
+	at com.adcc.tool.amqssimulator.view.AMQSMainShell.close(AMQSMainShell.java:437)
+	at com.adcc.tool.amqssimulator.view.AMQSMainShell.access$000(AMQSMainShell.java:47)
+	at com.adcc.tool.amqssimulator.view.AMQSMainShell$1.shellClosed(AMQSMainShell.java:153)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(Unknown Source)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(Unknown Source)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Unknown Source)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Unknown Source)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Unknown Source)
+	at org.eclipse.swt.widgets.Decorations.closeWidget(Unknown Source)
+	at org.eclipse.swt.widgets.Decorations.WM_CLOSE(Unknown Source)
+	at org.eclipse.swt.widgets.Control.windowProc(Unknown Source)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Unknown Source)
+	at org.eclipse.swt.widgets.Decorations.windowProc(Unknown Source)
+	at org.eclipse.swt.widgets.Shell.windowProc(Unknown Source)
+	at org.eclipse.swt.widgets.Display.windowProc(Unknown Source)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProcW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProc(Unknown Source)
+	at org.eclipse.swt.widgets.Shell.callWindowProc(Unknown Source)
+	at org.eclipse.swt.widgets.Control.windowProc(Unknown Source)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Unknown Source)
+	at org.eclipse.swt.widgets.Decorations.windowProc(Unknown Source)
+	at org.eclipse.swt.widgets.Shell.windowProc(Unknown Source)
+	at org.eclipse.swt.widgets.Display.windowProc(Unknown Source)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProcW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProc(Unknown Source)
+	at org.eclipse.swt.widgets.Shell.callWindowProc(Unknown Source)
+	at org.eclipse.swt.widgets.Control.windowProc(Unknown Source)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Unknown Source)
+	at org.eclipse.swt.widgets.Decorations.windowProc(Unknown Source)
+	at org.eclipse.swt.widgets.Shell.windowProc(Unknown Source)
+	at org.eclipse.swt.widgets.Display.windowProc(Unknown Source)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessageW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessage(Unknown Source)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Unknown Source)
+	at com.adcc.tool.amqssimulator.view.AMQSMainShell.main(AMQSMainShell.java:125)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:134)

@@ -1,0 +1,40 @@
+#ibmmqConnection settings
+ibmmqFactory:
+  #IBMMQConfiguration settings
+  host: 192.168.246.99
+  port: 1414
+  channel: CHL.AMQS1
+  queueManager: AMQS1
+  recvQueue: Q.GWTOAMQS
+  sendQueue: Q.AMQSTOGW
+  #IBMMQConnectionPool settings
+  activeMode: 0
+  timeout: 3000
+  maxConnections: 10
+  maxIdelConnections: 5
+#activeMQConnection settings
+activeMQFactory:
+  #ActiveMQConfiguration settings
+  url: tcp://localhost:61616
+  user: admin
+  password: admin
+  recvQueue: bgsup1
+  #ActiveMQConnectionPool settings
+  maxConnections: 30
+  maxActive: 10
+  idelTimeout: 2000
+  expiryTimeout: 2000
+dbFactory:
+  #DBConnection settings T_TRAFFIC
+#  url: jdbc:oracle:thin:@192.168.241.221:1521:ORCL
+#  user: AGS
+#  password: AGS
+#  sql: select * from T_TRAFFIC
+#  tableColumnName: RAWMSG
+  #DBConnection settings MSG620
+  url: jdbc:oracle:thin:@192.168.247.253:1521
+  user: AGS
+  password: AGS
+  sql: select * from MSG620
+  tableColumnName: msg
+  
